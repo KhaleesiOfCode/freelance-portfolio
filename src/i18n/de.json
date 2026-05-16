@@ -1,0 +1,93 @@
+{
+  "sidebar": {
+    "title": "Studio Nives",
+    "subtitle": "Webentwicklerin",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "location": "Standort",
+    "locationValue": "Bozen, Italien",
+    "whatsapp": "Auf WhatsApp chatten"
+  },
+  "nav": {
+    "about": "Über mich",
+    "portfolio": "Portfolio",
+    "services": "Leistungen",
+    "contact": "Kontakt"
+  },
+  "about": {
+    "title": "Über mich",
+    "description": "Ich helfe Cafés, Restaurants, Bäckereien, Salons und kleinen Unternehmen in Bozen dabei, mobile Webseiten, Online-Speisekarten, Buchungssysteme und einfache Verwaltungstools zu erstellen – damit Kunden leichter Kontakt aufnehmen, bestellen oder reservieren können.",
+    "whyMeTitle": "Warum mit mir arbeiten?",
+    "howItWorksTitle": "So funktioniert es",
+    "steps": [
+      { "title": "Kennenlerngespräch", "description": "In einem kurzen Gespräch lernen wir Ihr Unternehmen, Ihre Kunden und Ihre Bedürfnisse kennen." },
+      { "title": "Angebot & Design", "description": "Ich erstelle ein maßgeschneidertes Angebot mit einem klaren Zeitplan und ersten Entwürfen." },
+      { "title": "Umsetzung & Feedback", "description": "Ich setze Ihre Webseite oder Ihr Tool um und halte Sie bei jedem Schritt auf dem Laufenden." },
+      { "title": "Launch & Support", "description": "Wir gehen live, und ich stehe Ihnen auch danach für Updates, Änderungen und Fragen zur Verfügung." }
+    ],
+    "reasons": [
+      { "title": "Mobile-First Design", "description": "Jede Webseite, die ich erstelle, funktioniert zuerst auf dem Smartphone – denn dort sind Ihre Kunden." },
+      { "title": "WhatsApp-Integration", "description": "Integrierte WhatsApp-Nachrichten, damit Kunden Sie sofort erreichen können – so wie Menschen heute kommunizieren." },
+      { "title": "Einfache Verwaltungstools", "description": "Sie erhalten ein benutzerfreundliches Dashboard, um Speisekarten zu aktualisieren, Bestellungen zu verwalten und Buchungen zu steuern – ganz ohne technische Vorkenntnisse." },
+      { "title": "Lokaler Fokus auf Bozen", "description": "Ich bin in Bozen ansässig und kenne den lokalen Markt. Deutsch, Italienisch und Englisch – ich spreche die Sprache Ihrer Kunden." },
+      { "title": "Sauber & professionell", "description": "Kein überflüssiger Schnickschnack. Jedes Design ist zweckmäßig, barrierefrei und zeigt Ihr Unternehmen von seiner besten Seite." },
+      { "title": "Support nach dem Start", "description": "Nach dem Launch bin ich nicht weg. Sie erhalten laufenden Support, Updates und einen Ansprechpartner, der ans Telefon geht." }
+    ]
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "description": "Projekte, die ich umgesetzt habe. Jedes löst ein echtes Problem für ein lokales Unternehmen.",
+    "screenshot": "Bildschirmfoto",
+    "viewDemo": "Demo ansehen",
+    "viewCaseStudy": "Fallstudie ansehen",
+    "projects": [
+      {
+        "title": "Bäckerei-Bestellseite",
+        "description": "Ein kompletter Online-Auftritt für eine lokale Bäckerei mit digitaler Speisekarte, Vorbestellfunktion und WhatsApp-Benachrichtigungen.",
+        "tags": ["Webseite", "Bestellsystem"],
+        "features": ["Handy-optimierte Bäckerei-Webseite", "Digitale Speisekarte mit Kategorien", "Vorbestellsystem", "WhatsApp-Benachrichtigungen"]
+      },
+      {
+        "title": "Restaurant / Café Bestelldemo",
+        "description": "Ein QR-Code-basiertes Bestellsystem für Restaurants und Cafés. Kunden scannen, stöbern und bestellen vom Tisch aus.",
+        "tags": ["Bestellsystem", "QR-Speisekarte"],
+        "features": ["QR-Code an jedem Tisch", "Kontaktloser Bestellablauf", "Bestellverwaltungs-Dashboard", "Echtzeit-Bestellstatus"]
+      },
+      {
+        "title": "Salon-Buchungsdemo",
+        "description": "Ein Online-Buchungssystem für Salons und Beauty-Studios. Kunden buchen Termine, wählen Leistungen und erhalten Erinnerungen.",
+        "tags": ["Buchungssystem", "Dashboard"],
+        "features": ["Leistungskatalog mit Preisen", "Online-Terminbuchung", "Mitarbeiter-Verfügbarkeitskalender", "Automatische Erinnerungen"]
+      }
+    ]
+  },
+  "services": {
+    "title": "Leistungen",
+    "description": "Alles, was ein lokales Unternehmen für den Online-Erfolg braucht – von einer einfachen Webseite bis zum kompletten Bestell- und Buchungssystem.",
+    "items": [
+      { "title": "Business-Webseiten", "description": "Handy-optimierte, schnelle Webseiten, die auf Ihr Unternehmen zugeschnitten sind. Ein sauberer Online-Auftritt, der Kunden hilft, Sie zu finden." },
+      { "title": "Online-Bestellsysteme", "description": "Ermöglichen Sie Kunden, direkt vom Handy aus zu bestellen. Einfach zu verwalten, bequem für Ihre Kunden." },
+      { "title": "Buchungs- & Reservierungssysteme", "description": "Nehmen Sie Reservierungen und Terminbuchungen online entgegen. Kunden wählen eine Zeit, Sie werden benachrichtigt." },
+      { "title": "QR-Speisekarten", "description": "Ersetzen Sie Papierspeisekarten durch scannbare QR-Codes. Kunden öffnen die Karte direkt auf dem Smartphone – ohne App." },
+      { "title": "Admin-Dashboards", "description": "Ein privates Panel zur Verwaltung von Bestellungen, Speisekarten, Buchungen und Kundenaktivitäten. Keine technischen Kenntnisse nötig." },
+      { "title": "Monatliche Wartung", "description": "Laufende Unterstützung für Updates, Sicherheit und reibungslosen Betrieb. Inhaltsaktualisierungen und regelmäßige Checks." }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "description": "Lassen Sie uns über Ihre Geschäftsbedürfnisse sprechen. Ein kurzer Anruf oder ein paar Nachrichten reichen aus, um zu starten.",
+    "whatsapp": "Auf WhatsApp chatten",
+    "email": "E-Mail senden",
+    "formTitle": "Oder senden Sie mir eine Nachricht",
+    "name": "Name",
+    "namePlaceholder": "Ihr Name",
+    "emailField": "E-Mail",
+    "emailPlaceholder": "ihre@email.com",
+    "message": "Nachricht",
+    "messagePlaceholder": "Erzählen Sie mir von Ihrem Projekt...",
+    "send": "Nachricht senden"
+  },
+  "footer": {
+    "copyright": "Alle Rechte vorbehalten."
+  }
+}

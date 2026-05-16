@@ -1,0 +1,93 @@
+{
+  "sidebar": {
+    "title": "Studio Nives",
+    "subtitle": "Sviluppatrice Web",
+    "email": "Email",
+    "phone": "Telefono",
+    "location": "Luogo",
+    "locationValue": "Bolzano, Italia",
+    "whatsapp": "Chatta su WhatsApp"
+  },
+  "nav": {
+    "about": "Chi sono",
+    "portfolio": "Portfolio",
+    "services": "Servizi",
+    "contact": "Contatti"
+  },
+  "about": {
+    "title": "Chi sono",
+    "description": "Aiuto bar, ristoranti, panifici, saloni e piccole attività a Bolzano a creare siti web ottimizzati per mobile, menu online, sistemi di prenotazione e semplici strumenti di gestione che rendono più facile per i clienti contattare, ordinare o prenotare.",
+    "whyMeTitle": "Perché lavorare con me",
+    "howItWorksTitle": "Come funziona",
+    "steps": [
+      { "title": "Colloquio conoscitivo", "description": "Facciamo una breve chiamata per capire la tua attività, i tuoi clienti e le tue esigenze." },
+      { "title": "Proposta e design", "description": "Preparo una proposta su misura con wireframe e una tempistica chiara." },
+      { "title": "Realizzazione e revisione", "description": "Costruisco il sito o lo strumento tenendoti aggiornato ad ogni passo." },
+      { "title": "Lancio e supporto", "description": "Andiamo online e resto a disposizione per aggiornamenti, modifiche e domande." }
+    ],
+    "reasons": [
+      { "title": "Design ottimizzato per mobile", "description": "Ogni sito che costruisco funziona perfettamente prima di tutto sul telefono – perché è lì che sono i tuoi clienti." },
+      { "title": "Integrazione WhatsApp", "description": "Messaggistica WhatsApp integrata in modo che i clienti possano contattarti immediatamente – nel modo in cui le persone comunicano oggi." },
+      { "title": "Strumenti di gestione semplici", "description": "Ricevi una dashboard facile da usare per aggiornare menu, visualizzare ordini e gestire prenotazioni – senza competenze tecniche." },
+      { "title": "Focus su Bolzano", "description": "Vivo a Bolzano e conosco il mercato locale. Tedesco, italiano e inglese – parlo la lingua dei tuoi clienti." },
+      { "title": "Pulito e professionale", "description": "Niente confusione, niente fronzoli. Ogni design è funzionale, accessibile e pensato per far risplendere la tua attività." },
+      { "title": "Supporto post-lancio", "description": "Dopo il lancio non sparisco. Ricevi supporto continuo, aggiornamenti e qualcuno che risponde quando chiami." }
+    ]
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "description": "Progetti reali che ho costruito. Ognuno è pensato per risolvere un problema concreto di un'attività locale.",
+    "screenshot": "Screenshot",
+    "viewDemo": "Vedi demo",
+    "viewCaseStudy": "Vedi caso studio",
+    "projects": [
+      {
+        "title": "Sito ordinazioni panetteria",
+        "description": "Una presenza online completa per una panetteria locale con menu digitale, ordinazioni anticipate e notifiche WhatsApp.",
+        "tags": ["Sito web", "Ordinazioni"],
+        "features": ["Sito web ottimizzato per mobile", "Menu digitale con categorie", "Sistema di ritiro con preordine", "Notifiche WhatsApp degli ordini"]
+      },
+      {
+        "title": "Demo ordinazioni ristorante / bar",
+        "description": "Un sistema di ordinazione basato su codici QR per ristoranti e bar. I clienti scansionano, sfogliano e ordinano dal telefono.",
+        "tags": ["Ordinazioni", "Menu QR"],
+        "features": ["Codice QR a ogni tavolo", "Flusso di ordinazione senza contatto", "Dashboard di gestione ordini", "Stato ordini in tempo reale"]
+      },
+      {
+        "title": "Demo prenotazioni salone",
+        "description": "Un sistema di prenotazione online per saloni e centri estetici. I clienti prenotano appuntamenti, scelgono servizi e ricevono promemoria.",
+        "tags": ["Prenotazioni", "Dashboard"],
+        "features": ["Catalogo servizi con prezzi", "Prenotazione appuntamenti online", "Calendario disponibilità personale", "Sistema di promemoria automatico"]
+      }
+    ]
+  },
+  "services": {
+    "title": "Servizi",
+    "description": "Tutto ciò di cui un'attività locale ha bisogno per avere successo online – da un semplice sito web a un sistema completo di ordinazione e prenotazione.",
+    "items": [
+      { "title": "Siti web aziendali", "description": "Siti web veloci e ottimizzati per mobile, su misura per la tua attività. Una presenza online pulita che aiuta i clienti a trovarti." },
+      { "title": "Sistemi di ordinazione online", "description": "Consenti ai clienti di sfogliare il menu e ordinare direttamente dal telefono. Semplice da gestire, facile per i tuoi clienti." },
+      { "title": "Sistemi di prenotazione", "description": "Accetta prenotazioni e appuntamenti online. I clienti scelgono un orario, tu ricevi notifica e la disponibilità si aggiorna automaticamente." },
+      { "title": "Menu QR", "description": "Sostituisci i menu cartacei con codici QR scansionabili. I clienti li aprono sul telefono – senza app, senza problemi." },
+      { "title": "Dashboard di gestione", "description": "Un pannello privato per gestire ordini, aggiornare il menu, visualizzare prenotazioni e monitorare l'attività dei clienti. Nessuna competenza tecnica richiesta." },
+      { "title": "Manutenzione mensile", "description": "Supporto continuo per mantenere il sito aggiornato, sicuro e funzionante. Aggiornamenti dei contenuti, controlli delle prestazioni e tranquillità." }
+    ]
+  },
+  "contact": {
+    "title": "Contatti",
+    "description": "Parliamo di ciò di cui la tua attività ha bisogno. Una breve chiamata o qualche messaggio è tutto ciò che serve per iniziare.",
+    "whatsapp": "Chatta su WhatsApp",
+    "email": "Invia un'email",
+    "formTitle": "Oppure inviami un messaggio",
+    "name": "Nome",
+    "namePlaceholder": "Il tuo nome",
+    "emailField": "Email",
+    "emailPlaceholder": "tua@email.com",
+    "message": "Messaggio",
+    "messagePlaceholder": "Parlami del tuo progetto...",
+    "send": "Invia messaggio"
+  },
+  "footer": {
+    "copyright": "Tutti i diritti riservati."
+  }
+}
