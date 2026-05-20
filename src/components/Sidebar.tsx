@@ -33,7 +33,7 @@ export default function Sidebar() {
       <div className="w-28 h-28 rounded-full bg-dark-teal/60 border-2 border-gold/40 mb-5 shadow-lg shadow-gold/10 overflow-hidden relative">
         <Image
           src="/images/studio-logo.png"
-          alt="Studio Nives"
+          alt="Nivetha Sathiyapal"
           fill
           className="object-cover"
         />

@@ -1,6 +1,6 @@
 {
   "sidebar": {
-    "title": "Studio Nives",
+    "title": "Nivetha Sathiyapal",
     "subtitle": "Sviluppatrice Web",
     "email": "Email",
     "phone": "Telefono",
@@ -17,21 +17,19 @@
   "about": {
     "title": "Chi sono",
     "description": "Aiuto bar, ristoranti, panifici, saloni e piccole attività a Bolzano a creare siti web ottimizzati per mobile, menu online, sistemi di prenotazione e semplici strumenti di gestione che rendono più facile per i clienti contattare, ordinare o prenotare.",
-    "whyMeTitle": "Perché lavorare con me",
-    "howItWorksTitle": "Come funziona",
-    "steps": [
-      { "title": "Colloquio conoscitivo", "description": "Facciamo una breve chiamata per capire la tua attività, i tuoi clienti e le tue esigenze." },
-      { "title": "Proposta e design", "description": "Preparo una proposta su misura con wireframe e una tempistica chiara." },
-      { "title": "Realizzazione e revisione", "description": "Costruisco il sito o lo strumento tenendoti aggiornato ad ogni passo." },
-      { "title": "Lancio e supporto", "description": "Andiamo online e resto a disposizione per aggiornamenti, modifiche e domande." }
+    "whatIBuildTitle": "Cosa realizzo",
+    "whatIBuild": [
+      { "title": "Siti web aziendali", "description": "Siti web ottimizzati per mobile per bar, ristoranti, panifici e saloni. Veloci, puliti e progettati per trasformare i visitatori in clienti." },
+      { "title": "Sistemi di ordinazione online", "description": "Menu digitali con preordine e ritiro. I clienti sfogliano e ordinano dal telefono — senza app." },
+      { "title": "Strumenti di prenotazione", "description": "Prenotazioni online per saloni, studi e ristoranti. I clienti prenotano, ricevi notifica, la disponibilità si aggiorna automaticamente." },
+      { "title": "Dashboard di gestione", "description": "Pannelli privati per gestire ordini, aggiornare menu, visualizzare prenotazioni e monitorare l'attività. Abbastanza semplici per chiunque." }
     ],
-    "reasons": [
-      { "title": "Design ottimizzato per mobile", "description": "Ogni sito che costruisco funziona perfettamente prima di tutto sul telefono – perché è lì che sono i tuoi clienti." },
-      { "title": "Integrazione WhatsApp", "description": "Messaggistica WhatsApp integrata in modo che i clienti possano contattarti immediatamente – nel modo in cui le persone comunicano oggi." },
-      { "title": "Strumenti di gestione semplici", "description": "Ricevi una dashboard facile da usare per aggiornare menu, visualizzare ordini e gestire prenotazioni – senza competenze tecniche." },
-      { "title": "Focus su Bolzano", "description": "Vivo a Bolzano e conosco il mercato locale. Tedesco, italiano e inglese – parlo la lingua dei tuoi clienti." },
-      { "title": "Pulito e professionale", "description": "Niente confusione, niente fronzoli. Ogni design è funzionale, accessibile e pensato per far risplendere la tua attività." },
-      { "title": "Supporto post-lancio", "description": "Dopo il lancio non sparisco. Ricevi supporto continuo, aggiornamenti e qualcuno che risponde quando chiami." }
+    "whyItWorksTitle": "Perché funziona",
+    "whyItWorks": [
+      { "title": "Progettato per mobile", "description": "Ogni sito e strumento è pensato prima di tutto per chi usa il telefono — perché è lì che sono i tuoi clienti." },
+      { "title": "Pronto per WhatsApp", "description": "WhatsApp integrato in modo che i clienti possano contattarti immediatamente, nel modo in cui le persone comunicano oggi." },
+      { "title": "Semplice da gestire", "description": "Ricevi una dashboard facile per aggiornare contenuti, visualizzare ordini e gestire prenotazioni — senza competenze tecniche." },
+      { "title": "Locale e multilingue", "description": "Con sede a Bolzano, in tedesco, italiano e inglese. Conosco il mercato locale e i tuoi clienti." }
     ]
   },
   "portfolio": {
@@ -43,21 +41,30 @@
     "projects": [
       {
         "title": "Sito ordinazioni panetteria",
-        "description": "Una presenza online completa per una panetteria locale con menu digitale, ordinazioni anticipate e notifiche WhatsApp.",
+        "description": "Progettato e sviluppato un sito web premium per una panetteria con sezione menu incentrata sui prodotti, flusso personalizzato per torte, layout responsive e stile curato per un concept di panetteria domestica.",
         "tags": ["Sito web", "Ordinazioni"],
-        "features": ["Sito web ottimizzato per mobile", "Menu digitale con categorie", "Sistema di ritiro con preordine", "Notifiche WhatsApp degli ordini"]
+        "features": ["Sito web ottimizzato per mobile", "Menu digitale con categorie", "Sistema di ritiro con preordine", "Notifiche WhatsApp degli ordini"],
+        "images": ["/images/bakery-screenshot.png", "/images/bakery-screenshot-01.png", "/images/bakery-screenshot-02.png", "/images/bakery-screenshot-03.png"],
+        "demoUrl": "https://the-little-patisserei.onrender.com/",
+        "caseStudyUrl": ""
       },
       {
         "title": "Demo ordinazioni ristorante / bar",
         "description": "Un sistema di ordinazione basato su codici QR per ristoranti e bar. I clienti scansionano, sfogliano e ordinano dal telefono.",
         "tags": ["Ordinazioni", "Menu QR"],
-        "features": ["Codice QR a ogni tavolo", "Flusso di ordinazione senza contatto", "Dashboard di gestione ordini", "Stato ordini in tempo reale"]
+        "features": ["Codice QR a ogni tavolo", "Flusso di ordinazione senza contatto", "Dashboard di gestione ordini", "Stato ordini in tempo reale"],
+        "images": [],
+        "demoUrl": "",
+        "caseStudyUrl": ""
       },
       {
         "title": "Demo prenotazioni salone",
         "description": "Un sistema di prenotazione online per saloni e centri estetici. I clienti prenotano appuntamenti, scelgono servizi e ricevono promemoria.",
         "tags": ["Prenotazioni", "Dashboard"],
-        "features": ["Catalogo servizi con prezzi", "Prenotazione appuntamenti online", "Calendario disponibilità personale", "Sistema di promemoria automatico"]
+        "features": ["Catalogo servizi con prezzi", "Prenotazione appuntamenti online", "Calendario disponibilità personale", "Sistema di promemoria automatico"],
+        "images": [],
+        "demoUrl": "",
+        "caseStudyUrl": ""
       }
     ]
   },

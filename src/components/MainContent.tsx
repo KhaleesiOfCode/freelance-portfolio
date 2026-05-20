@@ -7,7 +7,7 @@ import PortfolioTab from "./PortfolioTab";
 import ServicesTab from "./ServicesTab";
 import ContactTab from "./ContactTab";
 
-const tabKeys = ["about", "portfolio", "services", "contact"] as const;
+const tabKeys = ["about", "portfolio", "contact"] as const;
 
 export default function MainContent() {
   const { t, locale } = useLanguage();
@@ -38,15 +38,20 @@ export default function MainContent() {
 
         {/* Tab content */}
         <div key={`${activeTab}-${locale}`} className="animate-[fadeIn_0.3s_ease-in-out]">
-          {activeTab === "about" && <AboutTab />}
+          {activeTab === "about" && (
+            <>
+              <AboutTab />
+              <div className="mt-16" />
+              <ServicesTab />
+            </>
+          )}
           {activeTab === "portfolio" && <PortfolioTab />}
-          {activeTab === "services" && <ServicesTab />}
           {activeTab === "contact" && <ContactTab />}
         </div>
 
         {/* Footer */}
         <div className="mt-20 pt-8 border-t border-white/10 text-center text-sm text-cream/30">
-          &copy; {new Date().getFullYear()} Studio Nives.{" "}
+          &copy; {new Date().getFullYear()} Nivetha Sathiyapal.{" "}
           {t("footer.copyright")}
         </div>
       </div>

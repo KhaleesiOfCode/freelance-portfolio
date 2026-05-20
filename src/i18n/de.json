@@ -1,6 +1,6 @@
 {
   "sidebar": {
-    "title": "Studio Nives",
+    "title": "Nivetha Sathiyapal",
     "subtitle": "Webentwicklerin",
     "email": "E-Mail",
     "phone": "Telefon",
@@ -17,21 +17,19 @@
   "about": {
     "title": "Über mich",
     "description": "Ich helfe Cafés, Restaurants, Bäckereien, Salons und kleinen Unternehmen in Bozen dabei, mobile Webseiten, Online-Speisekarten, Buchungssysteme und einfache Verwaltungstools zu erstellen – damit Kunden leichter Kontakt aufnehmen, bestellen oder reservieren können.",
-    "whyMeTitle": "Warum mit mir arbeiten?",
-    "howItWorksTitle": "So funktioniert es",
-    "steps": [
-      { "title": "Kennenlerngespräch", "description": "In einem kurzen Gespräch lernen wir Ihr Unternehmen, Ihre Kunden und Ihre Bedürfnisse kennen." },
-      { "title": "Angebot & Design", "description": "Ich erstelle ein maßgeschneidertes Angebot mit einem klaren Zeitplan und ersten Entwürfen." },
-      { "title": "Umsetzung & Feedback", "description": "Ich setze Ihre Webseite oder Ihr Tool um und halte Sie bei jedem Schritt auf dem Laufenden." },
-      { "title": "Launch & Support", "description": "Wir gehen live, und ich stehe Ihnen auch danach für Updates, Änderungen und Fragen zur Verfügung." }
+    "whatIBuildTitle": "Was ich entwickle",
+    "whatIBuild": [
+      { "title": "Business-Webseiten", "description": "Handy-optimierte Webseiten für Cafés, Restaurants, Bäckereien und Salons. Schnell, sauber und darauf ausgelegt, Besucher in Kunden zu verwandeln." },
+      { "title": "Online-Bestellsysteme", "description": "Digitale Speisekarten mit Vorbestell- und Abholfunktion. Kunden stöbern und bestellen vom Handy — ohne App." },
+      { "title": "Buchungs- & Reservierungstools", "description": "Online-Terminbuchung für Salons, Studios und Restaurants. Kunden buchen, Sie werden benachrichtigt, Verfügbarkeiten aktualisieren sich automatisch." },
+      { "title": "Admin-Dashboards", "description": "Private Panels zur Verwaltung von Bestellungen, Speisekarten, Buchungen und Aktivitäten. Einfach genug für jedermann." }
     ],
-    "reasons": [
-      { "title": "Mobile-First Design", "description": "Jede Webseite, die ich erstelle, funktioniert zuerst auf dem Smartphone – denn dort sind Ihre Kunden." },
-      { "title": "WhatsApp-Integration", "description": "Integrierte WhatsApp-Nachrichten, damit Kunden Sie sofort erreichen können – so wie Menschen heute kommunizieren." },
-      { "title": "Einfache Verwaltungstools", "description": "Sie erhalten ein benutzerfreundliches Dashboard, um Speisekarten zu aktualisieren, Bestellungen zu verwalten und Buchungen zu steuern – ganz ohne technische Vorkenntnisse." },
-      { "title": "Lokaler Fokus auf Bozen", "description": "Ich bin in Bozen ansässig und kenne den lokalen Markt. Deutsch, Italienisch und Englisch – ich spreche die Sprache Ihrer Kunden." },
-      { "title": "Sauber & professionell", "description": "Kein überflüssiger Schnickschnack. Jedes Design ist zweckmäßig, barrierefrei und zeigt Ihr Unternehmen von seiner besten Seite." },
-      { "title": "Support nach dem Start", "description": "Nach dem Launch bin ich nicht weg. Sie erhalten laufenden Support, Updates und einen Ansprechpartner, der ans Telefon geht." }
+    "whyItWorksTitle": "Warum es funktioniert",
+    "whyItWorks": [
+      { "title": "Optimiert für Mobilgeräte", "description": "Jede Seite und jedes Tool ist zuerst für Smartphone-Nutzer konzipiert — denn dort sind Ihre Kunden." },
+      { "title": "WhatsApp bereit", "description": "Integriertes WhatsApp, damit Kunden Sie sofort erreichen können — so wie Menschen heute kommunizieren." },
+      { "title": "Einfach zu verwalten", "description": "Sie erhalten ein benutzerfreundliches Dashboard zur Aktualisierung von Inhalten, Bestellungen und Buchungen — ohne technische Kenntnisse." },
+      { "title": "Lokal & mehrsprachig", "description": "Mit Sitz in Bozen, in Deutsch, Italienisch und Englisch. Ich kenne den lokalen Markt und Ihre Kunden." }
     ]
   },
   "portfolio": {
@@ -43,21 +41,30 @@
     "projects": [
       {
         "title": "Bäckerei-Bestellseite",
-        "description": "Ein kompletter Online-Auftritt für eine lokale Bäckerei mit digitaler Speisekarte, Vorbestellfunktion und WhatsApp-Benachrichtigungen.",
+        "description": "Entworfen und entwickelt eine Premium-Bäckerei-Website mit produktorientiertem Menübereich, individuellem Kuchen-Bestellablauf, responsivem Layout und poliertem Branding für ein Hausbäckerei-Konzept.",
         "tags": ["Webseite", "Bestellsystem"],
-        "features": ["Handy-optimierte Bäckerei-Webseite", "Digitale Speisekarte mit Kategorien", "Vorbestellsystem", "WhatsApp-Benachrichtigungen"]
+        "features": ["Handy-optimierte Bäckerei-Webseite", "Digitale Speisekarte mit Kategorien", "Vorbestellsystem", "WhatsApp-Benachrichtigungen"],
+        "images": ["/images/bakery-screenshot.png", "/images/bakery-screenshot-01.png", "/images/bakery-screenshot-02.png", "/images/bakery-screenshot-03.png"],
+        "demoUrl": "https://the-little-patisserei.onrender.com/",
+        "caseStudyUrl": ""
       },
       {
         "title": "Restaurant / Café Bestelldemo",
         "description": "Ein QR-Code-basiertes Bestellsystem für Restaurants und Cafés. Kunden scannen, stöbern und bestellen vom Tisch aus.",
         "tags": ["Bestellsystem", "QR-Speisekarte"],
-        "features": ["QR-Code an jedem Tisch", "Kontaktloser Bestellablauf", "Bestellverwaltungs-Dashboard", "Echtzeit-Bestellstatus"]
+        "features": ["QR-Code an jedem Tisch", "Kontaktloser Bestellablauf", "Bestellverwaltungs-Dashboard", "Echtzeit-Bestellstatus"],
+        "images": [],
+        "demoUrl": "",
+        "caseStudyUrl": ""
       },
       {
         "title": "Salon-Buchungsdemo",
         "description": "Ein Online-Buchungssystem für Salons und Beauty-Studios. Kunden buchen Termine, wählen Leistungen und erhalten Erinnerungen.",
         "tags": ["Buchungssystem", "Dashboard"],
-        "features": ["Leistungskatalog mit Preisen", "Online-Terminbuchung", "Mitarbeiter-Verfügbarkeitskalender", "Automatische Erinnerungen"]
+        "features": ["Leistungskatalog mit Preisen", "Online-Terminbuchung", "Mitarbeiter-Verfügbarkeitskalender", "Automatische Erinnerungen"],
+        "images": [],
+        "demoUrl": "",
+        "caseStudyUrl": ""
       }
     ]
   },

@@ -6,11 +6,11 @@ import Reveal from "./Reveal";
 export default function AboutTab() {
   const { t, tt } = useLanguage();
 
-  const steps = tt("about.steps") as unknown as {
+  const whatIBuild = tt("about.whatIBuild") as unknown as {
     title: string;
     description: string;
   }[];
-  const reasons = tt("about.reasons") as unknown as {
+  const whyItWorks = tt("about.whyItWorks") as unknown as {
     title: string;
     description: string;
   }[];
@@ -28,23 +28,18 @@ export default function AboutTab() {
 
       <Reveal delay={100}>
         <h3 className="text-xl font-semibold text-cream mb-6">
-          {t("about.howItWorksTitle")}
+          {t("about.whatIBuildTitle")}
         </h3>
 
         <div className="grid md:grid-cols-2 gap-4 mb-12">
-          {steps.map((step, i) => (
+          {whatIBuild.map((item) => (
             <div
-              key={step.title}
+              key={item.title}
               className="bg-white/5 backdrop-blur-xl rounded-2xl p-5 border border-white/10 hover:bg-white/[0.08] transition-colors"
             >
-              <div className="flex items-center gap-3 mb-2">
-                <span className="w-7 h-7 rounded-full bg-gold/20 text-gold text-sm font-bold flex items-center justify-center shrink-0">
-                  {i + 1}
-                </span>
-                <h4 className="text-gold font-semibold">{step.title}</h4>
-              </div>
-              <p className="text-cream/60 text-sm leading-relaxed ml-10">
-                {step.description}
+              <h4 className="text-gold font-semibold mb-1.5">{item.title}</h4>
+              <p className="text-cream/60 text-sm leading-relaxed">
+                {item.description}
               </p>
             </div>
           ))}
@@ -53,20 +48,18 @@ export default function AboutTab() {
 
       <Reveal delay={200}>
         <h3 className="text-xl font-semibold text-cream mb-6">
-          {t("about.whyMeTitle")}
+          {t("about.whyItWorksTitle")}
         </h3>
 
         <div className="grid md:grid-cols-2 gap-5">
-          {reasons.map((reason) => (
+          {whyItWorks.map((item) => (
             <div
-              key={reason.title}
+              key={item.title}
               className="bg-white/5 backdrop-blur-xl rounded-2xl p-5 border border-white/10 hover:bg-white/[0.08] transition-colors"
             >
-              <h4 className="text-gold font-semibold mb-1.5">
-                {reason.title}
-              </h4>
+              <h4 className="text-gold font-semibold mb-1.5">{item.title}</h4>
               <p className="text-cream/60 text-sm leading-relaxed">
-                {reason.description}
+                {item.description}
               </p>
             </div>
           ))}
