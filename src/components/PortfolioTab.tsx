@@ -151,7 +151,7 @@ export default function PortfolioTab() {
                   {project.features.map((feature) => (
                     <li
                       key={feature}
-                      className="flex items-start gap-2 text-sm text-cream/60"
+                      className="flex items-start gap-2 text-base text-cream/60"
                     >
                       <svg
                         className="w-4 h-4 text-gold mt-0.5 shrink-0"

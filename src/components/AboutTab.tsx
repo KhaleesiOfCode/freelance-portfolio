@@ -38,7 +38,7 @@ export default function AboutTab() {
               className="bg-white/5 backdrop-blur-xl rounded-2xl p-5 border border-white/10 hover:-translate-y-1 hover:shadow-xl hover:shadow-gold/5 hover:border-gold/30 hover:bg-white/[0.08] transition-all duration-300 basis-72 flex-1 max-w-md"
             >
               <h4 className="text-gold font-semibold mb-1.5">{item.title}</h4>
-              <p className="text-cream/60 text-sm leading-relaxed">
+              <p className="text-cream/60 text-base leading-relaxed">
                 {item.description}
               </p>
             </div>
@@ -58,7 +58,7 @@ export default function AboutTab() {
               className="bg-white/5 backdrop-blur-xl rounded-2xl p-5 border border-white/10 hover:-translate-y-1 hover:shadow-xl hover:shadow-gold/5 hover:border-gold/30 hover:bg-white/[0.08] transition-all duration-300 basis-72 flex-1 max-w-md"
             >
               <h4 className="text-gold font-semibold mb-1.5">{item.title}</h4>
-              <p className="text-cream/60 text-sm leading-relaxed">
+              <p className="text-cream/60 text-base leading-relaxed">
                 {item.description}
               </p>
             </div>

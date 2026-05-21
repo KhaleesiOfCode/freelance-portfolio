@@ -31,7 +31,7 @@ export default function ServicesTab() {
               <h3 className="text-lg font-semibold text-cream mb-2">
                 {item.title}
               </h3>
-              <p className="text-cream/60 text-sm leading-relaxed">
+              <p className="text-cream/60 text-base leading-relaxed">
                 {item.description}
               </p>
             </div>

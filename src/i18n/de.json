@@ -91,44 +91,80 @@
   },
   "packages": {
     "title": "Website-Pakete",
-    "description": "Einfache Pakete für lokale Unternehmen, die eine professionelle Online-Präsenz ohne unnötige Komplexität benötigen.",
-    "cta": "Nach diesem Paket fragen",
+    "description": "Einfache Website- und Digital-Tool-Pakete für lokale Unternehmen, die eine professionelle Online-Präsenz ohne unnötige Komplexität benötigen.",
+    "pricingNote": "Die Preise sind Startpreise. Der endgültige Preis kann je nach Anzahl der Seiten, Inhalten, Sprachen, Funktionen, Integrationen und erforderlichem Support variieren. Domain, Hosting, kostenpflichtige Tools, Zahlungsgateways und Kosten von Drittanbietern sind nicht enthalten, sofern nicht gesondert vereinbart.",
     "items": [
       {
         "name": "Starter-Website",
-        "bestFor": "Kleine Unternehmen, die eine saubere Online-Präsenz benötigen",
+        "price": "Ab €499",
+        "bestFor": "Unternehmen ohne Website oder mit veralteter Website.",
         "includes": [
-          "1–3 Seiten",
+          "1–5 Seiten",
           "Mobilfreundliches Design",
-          "Kontakt-/WhatsApp-Button",
-          "Basis-Geschäftsinformationen",
-          "Öffnungszeiten und Standort"
+          "WhatsApp-Button",
+          "Google Maps",
+          "Basis-SEO",
+          "Kontaktbereich"
         ],
-        "price": "Ab €___"
+        "note": "Bestes Einstiegsangebot",
+        "cta": "Nach Starter-Website fragen"
       },
       {
-        "name": "Business-Website",
-        "bestFor": "Restaurants, Cafés, Salons, Bäckereien und Dienstleistungsbetriebe",
+        "name": "Website + QR-Speisekarte",
+        "price": "Ab €799",
+        "bestFor": "Cafés, Restaurants und Bäckereien.",
         "includes": [
-          "4–6 Seiten",
-          "Speisekarten-, Dienstleistungs- oder Produktbereiche",
-          "Galerie",
-          "Kontaktformular oder WhatsApp-Anfrage",
-          "Basis-SEO-Einrichtung"
+          "Website",
+          "Digitale Speisekarte",
+          "QR-Speisekarte",
+          "Menükategorien",
+          "Fotos",
+          "WhatsApp-Anfrage"
         ],
-        "price": "Ab €___"
+        "note": "Gut für Gastronomiebetriebe",
+        "cta": "Nach QR-Speisekarte fragen"
       },
       {
-        "name": "Website + Digitaler Ablauf",
-        "bestFor": "Unternehmen, die Buchungen, Bestellungen oder strukturierte Anfragen benötigen",
+        "name": "Bestelltool",
+        "price": "Ab €999",
+        "bestFor": "Restaurants, Cafés und Bäckereien.",
         "includes": [
-          "Website-Seiten",
-          "Buchungs-/Bestellanfrage-Ablauf",
-          "WhatsApp-/Bestell-Button",
-          "Einfache Admin- oder aktualisierungsfreundliche Struktur",
-          "Start-Unterstützung"
+          "Speisekarte",
+          "Warenkorb / Bestellablauf",
+          "Abhol- oder Lieferoption",
+          "Zeitfensterauswahl",
+          "WhatsApp / Admin-Bestellablauf"
         ],
-        "price": "Ab €___"
+        "note": "Höherwertiges Angebot",
+        "cta": "Nach Bestelltool fragen"
+      },
+      {
+        "name": "Buchungstool",
+        "price": "Ab €999",
+        "bestFor": "Salons, Kliniken und Dienstleistungsbetriebe.",
+        "includes": [
+          "Dienstleistungsliste",
+          "Datum-/Zeitauswahl",
+          "Buchungsformular",
+          "Bestätigungsablauf",
+          "Admin-Ansicht"
+        ],
+        "note": "Gut für Salons und Dienstleistungsbetriebe",
+        "cta": "Nach Buchungstool fragen"
+      },
+      {
+        "name": "Monatliche Wartung",
+        "price": "€100/Monat",
+        "bestFor": "Bestehende Kunden, die regelmäßige Updates und Support benötigen.",
+        "includes": [
+          "Menü-Updates",
+          "Preisänderungen",
+          "Bildänderungen",
+          "Kleine Fehlerbehebungen",
+          "Technischer Support"
+        ],
+        "note": "Wiederkehrender Support",
+        "cta": "Nach Wartung fragen"
       }
     ]
   },

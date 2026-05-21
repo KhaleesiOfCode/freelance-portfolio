@@ -91,44 +91,80 @@
   },
   "packages": {
     "title": "Pacchetti Siti Web",
-    "description": "Pacchetti semplici per attività locali che necessitano di una presenza online professionale senza complessità inutili.",
-    "cta": "Chiedi informazioni su questo pacchetto",
+    "description": "Pacchetti semplici di siti web e strumenti digitali per attività locali che necessitano di una presenza online professionale senza complessità inutili.",
+    "pricingNote": "I prezzi sono prezzi di partenza. Il prezzo finale può variare in base al numero di pagine, contenuti, lingue, funzionalità, integrazioni e supporto richiesto. Dominio, hosting, strumenti a pagamento, gateway di pagamento e costi di terze parti non sono inclusi se non concordati separatamente.",
     "items": [
       {
         "name": "Sito Web Starter",
-        "bestFor": "Piccole attività che necessitano di una presenza online pulita",
+        "price": "Da €499",
+        "bestFor": "Attività senza sito web o con sito web obsoleto.",
         "includes": [
-          "1–3 pagine",
+          "1–5 pagine",
           "Design ottimizzato per mobile",
-          "Pulsante contatto / WhatsApp",
-          "Informazioni aziendali di base",
-          "Orari di apertura e posizione"
+          "Pulsante WhatsApp",
+          "Google Maps",
+          "SEO di base",
+          "Sezione contatti"
         ],
-        "price": "Da €___"
+        "note": "Miglior prima offerta",
+        "cta": "Chiedi informazioni sul Starter"
       },
       {
-        "name": "Sito Web Business",
-        "bestFor": "Ristoranti, bar, saloni, panifici e attività di servizi",
+        "name": "Sito Web + Menu QR",
+        "price": "Da €799",
+        "bestFor": "Bar, ristoranti e panifici.",
         "includes": [
-          "4–6 pagine",
-          "Sezioni menu, servizi o prodotti",
-          "Galleria",
-          "Modulo di contatto o richiesta WhatsApp",
-          "Configurazione SEO di base"
+          "Sito web",
+          "Menu digitale",
+          "Menu QR",
+          "Categorie menu",
+          "Foto",
+          "Richiesta WhatsApp"
         ],
-        "price": "Da €___"
+        "note": "Adatto per attività alimentari",
+        "cta": "Chiedi informazioni sul Menu QR"
       },
       {
-        "name": "Sito Web + Flusso Digitale",
-        "bestFor": "Attività che necessitano di prenotazioni, ordini o richieste strutturate",
+        "name": "Strumento di Ordinazione",
+        "price": "Da €999",
+        "bestFor": "Ristoranti, bar e panifici.",
         "includes": [
-          "Pagine del sito web",
-          "Flusso richieste prenotazione / ordine",
-          "Pulsante WhatsApp / ordine",
-          "Struttura semplice per aggiornamenti o admin",
-          "Supporto al lancio"
+          "Menu",
+          "Carrello / flusso ordini",
+          "Opzione ritiro o consegna",
+          "Seleziona fascia oraria",
+          "Flusso ordini WhatsApp / admin"
         ],
-        "price": "Da €___"
+        "note": "Offerta di valore superiore",
+        "cta": "Chiedi informazioni sullo Strumento di Ordinazione"
+      },
+      {
+        "name": "Strumento di Prenotazione",
+        "price": "Da €999",
+        "bestFor": "Saloni, studi medici e attività di servizi.",
+        "includes": [
+          "Elenco servizi",
+          "Selezione data / ora",
+          "Modulo di prenotazione",
+          "Flusso di conferma",
+          "Vista admin"
+        ],
+        "note": "Adatto per saloni e attività di servizi",
+        "cta": "Chiedi informazioni sullo Strumento di Prenotazione"
+      },
+      {
+        "name": "Manutenzione Mensile",
+        "price": "€100/mese",
+        "bestFor": "Clienti esistenti che necessitano di aggiornamenti e supporto regolari.",
+        "includes": [
+          "Aggiornamenti menu",
+          "Modifiche prezzi",
+          "Modifiche immagini",
+          "Piccole correzioni",
+          "Supporto tecnico"
+        ],
+        "note": "Supporto ricorrente",
+        "cta": "Chiedi informazioni sulla Manutenzione"
       }
     ]
   },

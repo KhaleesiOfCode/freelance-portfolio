@@ -63,7 +63,7 @@ export default function MainContent() {
         </div>
       </div>
 
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 py-8 lg:py-16">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8 lg:py-16">
         {/* Hero section */}
         <div className="mb-10">
           <h1 className="text-3xl sm:text-4xl font-bold text-cream">
@@ -72,7 +72,7 @@ export default function MainContent() {
           <p className="text-gold text-base sm:text-lg font-medium mt-2">
             {t("sidebar.subtitle")}
           </p>
-          <p className="text-cream/60 text-sm leading-relaxed mt-4 max-w-2xl whitespace-pre-line">
+          <p className="text-cream/60 text-base leading-relaxed mt-4 max-w-2xl whitespace-pre-line">
             {t("sidebar.description")}
           </p>
 
@@ -193,7 +193,7 @@ export default function MainContent() {
                         {i + 1}
                       </span>
                       <h3 className="text-gold font-semibold mb-2">{step.title}</h3>
-                      <p className="text-cream/60 text-sm leading-relaxed">{step.description}</p>
+                      <p className="text-cream/60 text-base leading-relaxed">{step.description}</p>
                     </div>
                   ))}
                 </div>
@@ -207,28 +207,33 @@ export default function MainContent() {
                 <p className="text-cream/70 leading-relaxed mb-8 max-w-3xl">
                   {t("packages.description")}
                 </p>
-                <div className="flex flex-wrap justify-center gap-6">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                   {(tt("packages.items") as unknown as {
                     name: string;
+                    price: string;
                     bestFor: string;
                     includes: string[];
-                    price: string;
+                    note?: string;
+                    cta: string;
                   }[]).map((pkg) => (
                     <div
                       key={pkg.name}
-                      className="bg-white/5 backdrop-blur-xl rounded-2xl p-6 md:p-8 border border-white/10 hover:-translate-y-1 hover:shadow-xl hover:shadow-gold/5 hover:border-gold/30 transition-all duration-300 basis-72 flex-1 max-w-sm flex flex-col"
+                      className="bg-white/5 backdrop-blur-xl rounded-2xl p-6 md:p-8 border border-white/10 hover:-translate-y-1 hover:shadow-xl hover:shadow-gold/5 hover:border-gold/30 transition-all duration-300 flex flex-col"
                     >
                       <h3 className="text-xl font-semibold text-cream mb-1">
                         {pkg.name}
                       </h3>
-                      <p className="text-xs text-cream/40 mb-4 italic">
+                      <p className="text-2xl font-bold text-gold mt-1 mb-3">
+                        {pkg.price}
+                      </p>
+                      <p className="text-xs text-cream/40 mb-4 italic leading-relaxed">
                         {pkg.bestFor}
                       </p>
-                      <ul className="space-y-2 mb-6 flex-1">
+                      <ul className="space-y-2 mb-4 flex-1">
                         {pkg.includes.map((item) => (
                           <li
                             key={item}
-                            className="flex items-start gap-2 text-sm text-cream/60"
+                            className="flex items-start gap-2 text-base text-cream/60"
                           >
                             <svg className="w-4 h-4 text-gold mt-0.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
@@ -237,20 +242,25 @@ export default function MainContent() {
                           </li>
                         ))}
                       </ul>
-                      <p className="text-2xl font-bold text-gold mb-6">
-                        {pkg.price}
-                      </p>
+                      {pkg.note && (
+                        <p className="text-xs text-gold/70 font-medium mb-5">
+                          {pkg.note}
+                        </p>
+                      )}
                       <a
                         href="https://wa.me/393534854161"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="block w-full text-center bg-gold text-dark-teal px-4 py-3 rounded-full font-semibold text-sm hover:bg-[#c4a02f] transition-colors shadow-md"
                       >
-                        {t("packages.cta")}
+                        {pkg.cta}
                       </a>
                     </div>
                   ))}
                 </div>
+                <p className="text-xs text-cream/40 leading-relaxed mt-8 max-w-3xl mx-auto text-center">
+                  {t("packages.pricingNote")}
+                </p>
               </section>
             </>
           )}

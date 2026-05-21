@@ -91,44 +91,80 @@
   },
   "packages": {
     "title": "Website Packages",
-    "description": "Simple packages for local businesses that need a professional online presence without unnecessary complexity.",
-    "cta": "Ask About This Package",
+    "description": "Simple website and digital tool packages for local businesses that need a professional online presence without unnecessary complexity.",
+    "pricingNote": "Prices are starting prices. Final pricing may vary depending on the number of pages, content, languages, features, integrations, and support required. Domain, hosting, paid tools, payment gateways, and third-party platform costs are not included unless agreed separately.",
     "items": [
       {
         "name": "Starter Website",
-        "bestFor": "Small businesses that need a clean online presence",
+        "price": "From €499",
+        "bestFor": "Businesses with no website or an outdated website.",
         "includes": [
-          "1–3 pages",
+          "1–5 pages",
           "Mobile-friendly design",
-          "Contact / WhatsApp button",
-          "Basic business information",
-          "Opening hours and location"
+          "WhatsApp button",
+          "Google Maps",
+          "Basic SEO",
+          "Contact section"
         ],
-        "price": "From €___"
+        "note": "Best first offer",
+        "cta": "Ask About Starter Website"
       },
       {
-        "name": "Business Website",
-        "bestFor": "Restaurants, cafes, salons, bakeries, and service businesses",
+        "name": "Website + QR Menu",
+        "price": "From €799",
+        "bestFor": "Cafes, restaurants, and bakeries.",
         "includes": [
-          "4–6 pages",
-          "Menu, services, or product sections",
-          "Gallery",
-          "Contact form or WhatsApp enquiry",
-          "Basic SEO setup"
+          "Website",
+          "Digital menu",
+          "QR menu",
+          "Menu categories",
+          "Photos",
+          "WhatsApp enquiry"
         ],
-        "price": "From €___"
+        "note": "Good for food businesses",
+        "cta": "Ask About QR Menu"
       },
       {
-        "name": "Website + Digital Flow",
-        "bestFor": "Businesses that need bookings, orders, or structured enquiries",
+        "name": "Ordering Tool",
+        "price": "From €999",
+        "bestFor": "Restaurants, cafes, and bakeries.",
         "includes": [
-          "Website pages",
-          "Booking / order enquiry flow",
-          "WhatsApp / order button",
-          "Simple admin or update-friendly structure",
-          "Launch support"
+          "Menu",
+          "Cart / order flow",
+          "Pickup or delivery option",
+          "Time slot selection",
+          "WhatsApp / admin order flow"
         ],
-        "price": "From €___"
+        "note": "Higher-value offer",
+        "cta": "Ask About Ordering Tool"
+      },
+      {
+        "name": "Booking Tool",
+        "price": "From €999",
+        "bestFor": "Salons, clinics, and service businesses.",
+        "includes": [
+          "Services list",
+          "Date / time selection",
+          "Booking form",
+          "Confirmation flow",
+          "Admin view"
+        ],
+        "note": "Good for salons and service businesses",
+        "cta": "Ask About Booking Tool"
+      },
+      {
+        "name": "Monthly Maintenance",
+        "price": "€100/month",
+        "bestFor": "Existing clients who need regular updates and support.",
+        "includes": [
+          "Menu updates",
+          "Price changes",
+          "Image changes",
+          "Small fixes",
+          "Technical support"
+        ],
+        "note": "Recurring support",
+        "cta": "Ask About Maintenance"
       }
     ]
   },
