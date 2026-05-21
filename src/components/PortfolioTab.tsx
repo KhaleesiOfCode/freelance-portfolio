@@ -7,15 +7,12 @@ import Reveal from "./Reveal";
 
 interface Project {
   title: string;
-  status?: string;
+  label?: string;
   tags: string[];
   description: string;
   features: string[];
-  techStack?: string;
-  role?: string;
   images: string[];
   demoUrl: string;
-  caseStudyUrl?: string;
 }
 
 export default function PortfolioTab() {
@@ -136,9 +133,9 @@ export default function PortfolioTab() {
                       {tag}
                     </span>
                   ))}
-                  {project.status && (
+                  {project.label && (
                     <span className="text-xs font-medium text-cream/70 bg-white/5 px-3 py-1 rounded-full border border-white/10">
-                      {project.status}
+                      {project.label}
                     </span>
                   )}
                 </div>
@@ -174,17 +171,6 @@ export default function PortfolioTab() {
                   ))}
                 </ul>
 
-                {project.techStack && (
-                  <p className="text-xs text-cream/40 mb-2 leading-relaxed break-words">
-                    <span className="font-medium text-cream/60">Tech stack:</span> {project.techStack}
-                  </p>
-                )}
-                {project.role && (
-                  <p className="text-xs text-cream/40 mb-6 leading-relaxed">
-                    <span className="font-medium text-cream/60">Role:</span> {project.role}
-                  </p>
-                )}
-
                 <div className="flex gap-3">
                   <a
                     href={project.demoUrl || "#"}
@@ -192,7 +178,9 @@ export default function PortfolioTab() {
                     rel="noopener noreferrer"
                     className="flex-1 text-center bg-gold text-dark-teal px-4 py-2.5 rounded-full font-medium text-sm hover:bg-[#c4a02f] transition-colors"
                   >
-                    {t("portfolio.viewDemo")}
+                    {project.label && project.label.includes("Client")
+                      ? t("portfolio.viewProject")
+                      : t("portfolio.viewDemo")}
                   </a>
                 </div>
               </div>

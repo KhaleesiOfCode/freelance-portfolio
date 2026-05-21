@@ -12,7 +12,7 @@ export default function ContactTab() {
         <h2 className="text-3xl font-bold text-cream mb-4">
           {t("contact.title")}
         </h2>
-        <p className="text-cream/70 leading-relaxed mb-8 max-w-3xl">
+        <p className="text-cream/70 leading-relaxed mb-8 max-w-3xl whitespace-pre-line">
           {t("contact.description")}
         </p>
       </Reveal>

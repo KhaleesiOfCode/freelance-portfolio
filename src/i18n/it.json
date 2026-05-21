@@ -1,8 +1,8 @@
 {
   "sidebar": {
     "title": "Nivetha Sathiyapal",
-    "subtitle": "Consulente per soluzioni AI, Dati e Digitali",
-    "description": "Costruisco soluzioni digitali full-stack per casi d'uso di piccole imprese, tra cui e-commerce per panetterie, prenotazioni di ristoranti, sistemi di prenotazione per saloni, dashboard amministrative, strumenti di lead generation e flussi di automazione assistiti dall'AI.\n\nCon sede a Bolzano, Italia, aperta a collaborazioni full-time, di consulenza e basate su progetti.",
+    "subtitle": "Siti Web & Strumenti Digitali per Attività Locali a Bolzano",
+    "description": "Aiuto bar, ristoranti, panifici, saloni e piccole attività a creare siti web semplici e ottimizzati per mobile, che rendano più facile per i clienti vedere i vostri servizi, contattarvi, prenotare appuntamenti o inviare richieste tramite WhatsApp.\n\nCon sede a Bolzano, Italia. Disponibile per progetti freelance di siti web, menu, prenotazioni e automazione per attività locali.",
     "email": "Email",
     "phone": "Telefono",
     "location": "Luogo",
@@ -12,109 +12,155 @@
   "nav": {
     "about": "Chi sono",
     "portfolio": "Portfolio",
-    "services": "Servizi",
+    "packages": "Pacchetti",
     "contact": "Contatti"
   },
   "about": {
     "title": "Chi sono",
-    "description": "Aiuto bar, ristoranti, panifici, saloni e piccole attività locali di Bolzano a creare strumenti digitali semplici e ottimizzati per mobile, che rendano più facile per i clienti sfogliare, contattare, ordinare, prenotare o riservare.\n\nIl mio focus è su soluzioni pratiche che le piccole attività possano effettivamente utilizzare siti web puliti, menu digitali, flussi di ordinazione WhatsApp, moduli di prenotazione e semplici dashboard di gestione.\n\nChe tu abbia bisogno di una presenza online professionale o di un piccolo sistema per gestire richieste, ordini o prenotazioni, costruisco soluzioni facili da usare per i clienti e semplici da gestire per i titolari.",
+    "description": "Aiuto bar, ristoranti, panifici, saloni, centri estetici e piccole attività locali a Bolzano e in Alto Adige a creare strumenti digitali semplici e ottimizzati per mobile, che rendano più facile per i clienti trovarvi, vedere i vostri servizi, contattarvi, ordinare o prenotare.\n\nIl mio focus è su soluzioni pratiche che le piccole attività possano effettivamente utilizzare: siti web puliti, menu digitali, pulsanti di richiesta WhatsApp, moduli di prenotazione e semplici dashboard.\n\nChe abbiate bisogno di un nuovo sito web, un menu digitale per il vostro bar, una pagina di prenotazione per il vostro salone o un modo semplice per i clienti di informarsi sui vostri prodotti, costruisco soluzioni facili da usare per i vostri clienti e semplici da gestire per voi.",
     "whatIBuildTitle": "Cosa realizzo",
     "whatIBuild": [
-      { "title": "Siti web aziendali", "description": "Siti web ottimizzati per mobile per bar, ristoranti, panifici, saloni e attività di servizi locali. Progettati per essere professionali, caricarsi velocemente e aiutare i clienti a capire rapidamente cosa offri." },
-      { "title": "Menu digitali e cataloghi prodotti", "description": "Menu online e cataloghi prodotti che i clienti possono sfogliare dal telefono. Ideali per ristoranti, bar, panifici, pasticcerie domestiche, saloni e piccoli negozi." },
-      { "title": "Flussi di ordinazione e richiesta WhatsApp", "description": "Semplici flussi di ordinazione e richiesta che guidano i clienti dallo sfogliare al contattarti direttamente tramite WhatsApp, telefono o modulo di contatto." },
-      { "title": "Strumenti di prenotazione e prenotazione", "description": "Flussi di prenotazione e prenotazione online per saloni, studi, ristoranti e attività basate su servizi. I clienti possono richiedere un orario e tu ricevi i dettagli della prenotazione in modo chiaro." },
-      { "title": "Dashboard di gestione", "description": "Semplici dashboard private per gestire prodotti, voci di menu, richieste, prenotazioni e aggiornamenti di base senza necessità di conoscenze tecniche." }
+      { "title": "Siti web aziendali", "description": "Siti web ottimizzati per mobile per bar, ristoranti, panifici, saloni e attività di servizi locali. Progettati per essere professionali, caricarsi velocemente e aiutare i clienti a capire rapidamente cosa offrite." },
+      { "title": "Menu digitali e pagine prodotto", "description": "Menu online e pagine prodotto che i clienti possono sfogliare dal telefono. Ideali per ristoranti, bar, panifici, pasticcerie domestiche, saloni e piccoli negozi." },
+      { "title": "Flussi di richiesta WhatsApp e contatto", "description": "Semplici flussi di richiesta che guidano i clienti dallo sfogliare al contattarvi direttamente tramite WhatsApp, modulo di contatto o telefono." },
+      { "title": "Pagine di prenotazione e appuntamenti", "description": "Pagine di prenotazione online per saloni, studi, ristoranti e attività basate su servizi. I clienti possono richiedere un orario e voi ricevete i dettagli chiaramente." },
+      { "title": "Semplici dashboard di gestione", "description": "Dashboard private per gestire voci di menu, prodotti, richieste, prenotazioni e aggiornamenti di base senza necessità di conoscenze tecniche." }
     ],
-    "whyItWorksTitle": "Perché funziona",
+    "whyItWorksTitle": "Perché lavorare con me",
     "whyItWorks": [
-      { "title": "Ottimizzato per mobile", "description": "La maggior parte dei clienti cerca, sfoglia e contatta le attività dal telefono. Ogni sito e strumento è progettato mobile-first in modo che i clienti possano agire rapidamente." },
-      { "title": "Facile per i clienti", "description": "Navigazione chiara, pagine semplici per prodotti o servizi, pulsanti di contatto visibili e flussi WhatsApp diretti rendono più facile per i visitatori diventare clienti." },
-      { "title": "Semplice per i titolari", "description": "L'obiettivo non è creare software complicato. L'obiettivo è darti strumenti facili da aggiornare, gestire e utilizzare nella tua attività quotidiana." },
-      { "title": "Focus sulle attività locali", "description": "Costruito per le esigenze delle piccole attività di Bolzano e dintorni bar, ristoranti, panifici, saloni, attività domestiche e servizi locali." },
-      { "title": "Pronto per il multilingue", "description": "I siti web possono essere strutturati per contenuti in inglese, italiano e tedesco, aiutando i clienti locali e turisti a comprendere più facilmente i tuoi servizi." }
+      { "title": "Locale a Bolzano", "description": "Con sede locale e conoscenza delle esigenze delle piccole attività a Bolzano e in Alto Adige. Comprendo il mercato locale e i vostri clienti." },
+      { "title": "Design mobile-first", "description": "La maggior parte dei clienti cerca e sfoglia dal telefono. Ogni sito web è progettato mobile-first in modo che i visitatori possano agire rapidamente." },
+      { "title": "Semplici canali di contatto", "description": "I siti web includono modi chiari per i clienti di raggiungervi tramite WhatsApp, moduli di contatto, richieste di prenotazione o pulsanti di richiesta." },
+      { "title": "Pronto per il multilingue", "description": "I siti web possono essere strutturati per contenuti in inglese, italiano e tedesco, aiutando sia i clienti locali che turisti a comprendere i vostri servizi." },
+      { "title": "Design pulito e premium", "description": "Layout semplici e professionali senza complessità inutili. Il vostro sito web rappresenta la vostra attività e deve avere un aspetto all'altezza." },
+      { "title": "Supporto mensile opzionale", "description": "Dopo il lancio, posso aiutare con aggiornamenti, modifiche ai contenuti, piccole correzioni e manutenzione generale per mantenere il sito fresco e funzionante." }
     ]
   },
   "portfolio": {
     "title": "Portfolio",
-    "description": "Una selezione di progetti di soluzioni digitali che ho progettato e sviluppato per casi d'uso di piccole imprese, tra cui ordinazione di prodotti da forno, prenotazioni di ristoranti, prenotazione di saloni, dashboard amministrative e flussi di richiesta clienti.",
+    "description": "Ecco esempi di progetti di siti web a cui ho lavorato. Ognuno è progettato per una reale esigenza aziendale, dalle panetterie ai ristoranti ai saloni.",
     "screenshot": "Screenshot",
+    "viewProject": "Vedi progetto",
     "viewDemo": "Vedi demo",
-    "viewConcept": "Vedi concept",
-    "viewCaseStudy": "Vedi caso studio",
     "projects": [
       {
-        "title": "The Little Patisserie — E-Commerce Pasticceria Artigianale",
-        "status": "In sviluppo attivo",
-        "tags": ["E-Commerce Pasticceria", "Ordini personalizzati", "Dashboard Admin", "Flusso pagamenti"],
-        "description": "Una piattaforma e-commerce full-stack per una pasticceria artigianale domestica, con menu dinamico, carrello, ordini personalizzati di torte, integrazione pagamenti Razorpay, opzioni di consegna, notifiche WhatsApp e una dashboard amministrativa per la gestione di ordini e menu.",
+        "title": "Panetteria / Sito Web Catalogo Prodotti",
+        "label": "Progetto cliente / In corso",
+        "tags": ["Panetteria", "Catalogo prodotti", "Flusso richieste"],
+        "description": "Un vero progetto cliente in corso incentrato sulla presentazione dei prodotti, la navigazione mobile, le richieste e un'esperienza premium per un sito web di panetteria.",
         "features": [
-          "Menu dinamico della pasticceria con categorie, best seller, novità e badge prodotto",
-          "Carrello con quantità, prezzi e opzioni senza uova / con uova",
-          "Flussi di ritiro, consegna locale e consegna tramite corriere",
-          "Flusso di richiesta torte personalizzate con gusto, dimensione, occasione, messaggio e opzioni di design",
-          "Integrazione pagamenti Razorpay",
-          "Tracciamento stato ordini con flusso notifiche WhatsApp",
-          "Pannello admin protetto da password per ordini, voci menu, galleria e stato del negozio",
-          "Design responsivo per pasticceria con animazioni UI fluide"
+          "Catalogo prodotti",
+          "Design mobile-first",
+          "Flusso richieste / contatto",
+          "Presentazione prodotto premium"
         ],
-        "techStack": "Next.js 16, React 19, TypeScript, Tailwind CSS v4, Supabase, PostgreSQL, Razorpay, Framer Motion, Lucide React, Sentry, Render",
-        "role": "Sviluppatore full-stack singolo",
         "images": ["/images/bakery-screenshot.png", "/images/bakery-screenshot-01.png", "/images/bakery-screenshot-02.png", "/images/bakery-screenshot-03.png"],
-        "demoUrl": "https://the-little-patisserei.onrender.com/",
-        "caseStudyUrl": ""
+        "demoUrl": "https://the-little-patisserei.onrender.com/"
       },
       {
-        "title": "Ristorante Bella Vita — Sito Web Ristorante & Sistema Prenotazioni",
-        "status": "Progetto portfolio completo",
-        "tags": ["Sito web ristorante", "Prenotazioni", "Pannello Admin", "Bilingue"],
-        "description": "Un sito web completo per ristoranti con prenotazioni online, verifica disponibilità in tempo reale, conferme via email, supporto bilingue inglese/tedesco e un pannello di amministrazione sicuro per la gestione di prenotazioni, voci di menu e messaggi dei clienti.",
+        "title": "Ristorante / Bar Sito Web",
+        "label": "Progetto concept",
+        "tags": ["Ristorante", "Menu digitale", "CTA contatto"],
+        "description": "Un concept di sito web demo creato per mostrare come un ristorante o un bar può presentare chiaramente menu, orari di apertura, galleria, posizione e opzioni di contatto.",
         "features": [
-          "Sito web pubblico con pagine home, chi siamo, menu, prenotazioni, galleria e contatti",
-          "Flusso di prenotazione online con disponibilità slot in tempo reale",
-          "Workflow di conferma email",
-          "Pannello admin sicuro con autenticazione JWT",
-          "Gestione di prenotazioni, menu e messaggi",
-          "Supporto bilingue inglese/tedesco",
-          "Design responsivo con animazioni Framer Motion",
-          "API con limitazione di velocità, sanificazione input e header di sicurezza"
+          "Menu digitale",
+          "Homepage ristorante / bar",
+          "Galleria",
+          "CTA WhatsApp / contatto",
+          "Layout mobile"
         ],
-        "techStack": "Next.js 14, TypeScript, Tailwind CSS, PostgreSQL, Prisma ORM, JWT, bcryptjs, Nodemailer, Framer Motion",
-        "role": "Sviluppatore full-stack singolo",
         "images": ["/images/restaurant-screenshot.png", "/images/restaurant-screenshot-01.png", "/images/restaurant-screenshot-02.png", "/images/restaurant-screenshot-03.png", "/images/restaurant-screenshot-04.png", "/images/restaurant-screenshot-05.png"],
-        "demoUrl": "https://restaurant-website-exp.vercel.app/",
-        "caseStudyUrl": "https://restaurant-website-exp.vercel.app/"
+        "demoUrl": "https://restaurant-website-exp.vercel.app/"
       },
       {
-        "title": "Bellezza Salon — Sito Web Prenotazioni & Piattaforma Admin",
-        "status": "Prototipo quasi completo",
-        "tags": ["Sito web salone", "Prenotazioni online", "Trilingue", "Dashboard Admin"],
-        "description": "Un sito web full-stack per saloni e piattaforma di prenotazione con contenuti trilingue, prenotazione appuntamenti online, catalogo servizi, assegnazione personale e una dashboard amministrativa per la gestione di prenotazioni, servizi, recensioni, FAQ e personale.",
+        "title": "Salone / Beauty Sito Web",
+        "label": "Progetto concept",
+        "tags": ["Salone", "Servizi", "CTA prenotazione"],
+        "description": "Un concept di sito web demo per saloni e attività di bellezza per presentare servizi, prezzi, galleria, opzioni di appuntamento o contatto e un'immagine professionale del marchio.",
         "features": [
-          "Sito web marketing pubblico con sezioni hero, servizi, team, recensioni, FAQ e contatti",
-          "Flusso di prenotazione online con selezione multi-servizio, scelta data/ora e assegnazione personale",
-          "Dashboard admin per servizi, prenotazioni, calendario, personale, recensioni e FAQ",
-          "Supporto trilingue per italiano, inglese e tedesco",
-          "Configurazione SEO-ready con Schema.org JSON-LD, Open Graph, sitemap, robots.txt e manifest PWA",
-          "Design responsivo con Tailwind CSS v4",
-          "Modello dati basato su PostgreSQL con Prisma ORM"
+          "Sezione servizi",
+          "Elenco prezzi / servizi",
+          "Galleria",
+          "CTA appuntamento / contatto",
+          "Layout mobile"
         ],
-        "techStack": "Next.js 16, React 19, TypeScript, Tailwind CSS v4, Prisma 7, Neon PostgreSQL, Vercel",
-        "role": "Sviluppatore full-stack singolo",
         "images": ["/images/salon-screenshot.png", "/images/salon-screenshot-01.png", "/images/salon-screenshot-02.png"],
-        "demoUrl": "https://salon-website-exp.vercel.app/",
-        "caseStudyUrl": "https://salon-website-exp.vercel.app/"
+        "demoUrl": "https://salon-website-exp.vercel.app/"
+      }
+    ]
+  },
+  "packages": {
+    "title": "Pacchetti Siti Web",
+    "description": "Pacchetti semplici per attività locali che necessitano di una presenza online professionale senza complessità inutili.",
+    "cta": "Chiedi informazioni su questo pacchetto",
+    "items": [
+      {
+        "name": "Sito Web Starter",
+        "bestFor": "Piccole attività che necessitano di una presenza online pulita",
+        "includes": [
+          "1–3 pagine",
+          "Design ottimizzato per mobile",
+          "Pulsante contatto / WhatsApp",
+          "Informazioni aziendali di base",
+          "Orari di apertura e posizione"
+        ],
+        "price": "Da €___"
+      },
+      {
+        "name": "Sito Web Business",
+        "bestFor": "Ristoranti, bar, saloni, panifici e attività di servizi",
+        "includes": [
+          "4–6 pagine",
+          "Sezioni menu, servizi o prodotti",
+          "Galleria",
+          "Modulo di contatto o richiesta WhatsApp",
+          "Configurazione SEO di base"
+        ],
+        "price": "Da €___"
+      },
+      {
+        "name": "Sito Web + Flusso Digitale",
+        "bestFor": "Attività che necessitano di prenotazioni, ordini o richieste strutturate",
+        "includes": [
+          "Pagine del sito web",
+          "Flusso richieste prenotazione / ordine",
+          "Pulsante WhatsApp / ordine",
+          "Struttura semplice per aggiornamenti o admin",
+          "Supporto al lancio"
+        ],
+        "price": "Da €___"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Come funziona",
+    "steps": [
+      {
+        "title": "Discussione gratuita",
+        "description": "Parliamo della vostra attività, della vostra presenza online attuale e delle esigenze dei vostri clienti."
+      },
+      {
+        "title": "Proposta e pacchetto",
+        "description": "Suggerisco il pacchetto sito web, le pagine, le funzionalità, i tempi e il prezzo giusti."
+      },
+      {
+        "title": "Design e sviluppo",
+        "description": "Creo il sito web e condivido i progressi per ricevere feedback."
+      },
+      {
+        "title": "Lancio e supporto",
+        "description": "Il sito web viene pubblicato e posso aiutare con aggiornamenti, manutenzione e miglioramenti."
       }
     ]
   },
   "services": {
     "title": "Servizi",
-    "description": "Tutto ciò di cui un'attività locale ha bisogno per creare una presenza online più forte, migliorare le richieste dei clienti e gestire semplici flussi di lavoro digitali.",
+    "description": "Costruisco strumenti digitali pratici che le piccole attività possono effettivamente utilizzare: siti web puliti, menu digitali, pagine servizi, flussi di prenotazione o contatto, pulsanti di richiesta WhatsApp e semplici dashboard di gestione.",
     "items": [
       { "title": "Sito web aziendale", "description": "Un sito web pulito e ottimizzato per mobile, su misura per la tua attività. Include sezioni chiave come home, chi siamo, servizi o prodotti, galleria, contatti, posizione e pulsanti di richiesta." },
       { "title": "Menu digitale / Catalogo prodotti", "description": "Un menu online strutturato o un catalogo prodotti in cui i clienti possono sfogliare articoli, categorie, prezzi, descrizioni e foto dal telefono." },
       { "title": "Flusso di ordinazione WhatsApp", "description": "Un semplice flusso di ordinazione o richiesta collegato a WhatsApp, che consente ai clienti di contattarti direttamente dopo aver visto i tuoi prodotti o servizi." },
-      { "title": "Flusso di prenotazione / prenotazione", "description": "Un modulo di prenotazione o prenotazione per attività basate su appuntamenti come saloni, studi, ristoranti e servizi locali." },
+      { "title": "Flusso di prenotazione", "description": "Un modulo di prenotazione per attività basate su appuntamenti come saloni, studi, ristoranti e servizi locali." },
       { "title": "Dashboard di gestione", "description": "Una dashboard privata in cui puoi gestire voci di menu, prodotti, richieste, prenotazioni o aggiornamenti di contenuti di base." },
       { "title": "Menu QR", "description": "Un codice QR scansionabile collegato al tuo menu digitale o catalogo prodotti. Utile per ristoranti, bar, panifici e saloni." },
       { "title": "Manutenzione mensile", "description": "Supporto continuo per piccoli aggiornamenti, modifiche ai contenuti, controlli delle prestazioni, piccole correzioni e manutenzione generale del sito." }
@@ -122,7 +168,7 @@
   },
   "contact": {
     "title": "Contatti",
-    "description": "Parliamo di ciò di cui la tua attività ha bisogno. Una breve chiamata o qualche messaggio è tutto ciò che serve per iniziare.",
+    "description": "Avete un bar, ristorante, salone, panetteria o attività locale che necessita di una migliore presenza online? Inviatemi un messaggio e condividerò idee semplici per il vostro sito web o flusso digitale.",
     "whatsapp": "Chatta su WhatsApp",
     "email": "Invia un'email",
     "formTitle": "Oppure inviami un messaggio",
@@ -135,6 +181,6 @@
     "send": "Invia messaggio"
   },
   "footer": {
-    "copyright": "Soluzioni freelance web, automazione e digitali per attività locali a Bolzano."
+    "copyright": "Siti web freelance e strumenti digitali per attività locali a Bolzano."
   }
 }
