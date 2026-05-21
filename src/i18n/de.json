@@ -1,7 +1,8 @@
 {
   "sidebar": {
     "title": "Nivetha Sathiyapal",
-    "subtitle": "Webentwicklerin",
+    "subtitle": "KI, Daten & Digitale Lösungen – Beraterin",
+    "description": "Ich entwickle Full-Stack-Digitallösungen für kleine Unternehmen, darunter Bäckerei-E-Commerce, Restaurant-Reservierungen, Salon-Buchungssysteme, Admin-Dashboards, Lead-Generierungs-Tools und KI-gestützte Automatisierungsworkflows.\n\nMit Sitz in Bozen, Italien, offen für Vollzeit-, Beratungs- und Projektarbeit.",
     "email": "E-Mail",
     "phone": "Telefon",
     "location": "Standort",
@@ -16,68 +17,107 @@
   },
   "about": {
     "title": "Über mich",
-    "description": "Ich helfe Cafés, Restaurants, Bäckereien, Salons und kleinen Unternehmen in Bozen dabei, mobile Webseiten, Online-Speisekarten, Buchungssysteme und einfache Verwaltungstools zu erstellen – damit Kunden leichter Kontakt aufnehmen, bestellen oder reservieren können.",
+    "description": "Ich helfe Cafés, Restaurants, Bäckereien, Salons und kleinen lokalen Unternehmen in Bozen, einfache, mobilfreundliche digitale Werkzeuge zu erstellen, die es Kunden erleichtern, zu stöbern, Kontakt aufzunehmen, zu bestellen, zu buchen oder zu reservieren.\n\nMein Fokus liegt auf praktischen Lösungen, die kleine Unternehmen tatsächlich nutzen können – saubere Websites, digitale Speisekarten, WhatsApp-Bestellabläufe, Buchungsformulare und einfache Admin-Dashboards.\n\nOb Sie eine professionelle Online-Präsenz oder ein kleines System zur Verwaltung von Anfragen, Bestellungen oder Buchungen benötigen – ich baue Lösungen, die für Kunden einfach zu nutzen und für Geschäftsinhaber leicht zu verwalten sind.",
     "whatIBuildTitle": "Was ich entwickle",
     "whatIBuild": [
-      { "title": "Business-Webseiten", "description": "Handy-optimierte Webseiten für Cafés, Restaurants, Bäckereien und Salons. Schnell, sauber und darauf ausgelegt, Besucher in Kunden zu verwandeln." },
-      { "title": "Online-Bestellsysteme", "description": "Digitale Speisekarten mit Vorbestell- und Abholfunktion. Kunden stöbern und bestellen vom Handy — ohne App." },
-      { "title": "Buchungs- & Reservierungstools", "description": "Online-Terminbuchung für Salons, Studios und Restaurants. Kunden buchen, Sie werden benachrichtigt, Verfügbarkeiten aktualisieren sich automatisch." },
-      { "title": "Admin-Dashboards", "description": "Private Panels zur Verwaltung von Bestellungen, Speisekarten, Buchungen und Aktivitäten. Einfach genug für jedermann." }
+      { "title": "Unternehmenswebsites", "description": "Mobiloptimierte Websites für Cafés, Restaurants, Bäckereien, Salons und lokale Dienstleistungsbetriebe. Professionell, schnellladend und übersichtlich gestaltet, damit Kunden sofort verstehen, was Sie anbieten." },
+      { "title": "Digitale Speisekarten & Produktkataloge", "description": "Online-Speisekarten und Produktkataloge, die Kunden vom Handy aus durchstöbern können. Ideal für Restaurants, Cafés, Bäckereien, Heimbäcker, Salons und kleine Einzelhandelsgeschäfte." },
+      { "title": "WhatsApp-Bestell- & Anfrageabläufe", "description": "Einfache Bestell- und Anfrageabläufe, die Kunden vom Stöbern zur direkten Kontaktaufnahme via WhatsApp, Telefon oder Kontaktformular führen." },
+      { "title": "Buchungs- & Reservierungstools", "description": "Online-Buchungs- und Reservierungsabläufe für Salons, Studios, Restaurants und dienstleistungsbasierte Unternehmen. Kunden können einen Termin anfragen, Sie erhalten die Buchungsdetails klar und deutlich." },
+      { "title": "Admin-Dashboards", "description": "Einfache private Dashboards zur Verwaltung von Produkten, Menüpunkten, Anfragen, Buchungen und grundlegenden Geschäftsaktualisierungen – ohne technische Kenntnisse." }
     ],
     "whyItWorksTitle": "Warum es funktioniert",
     "whyItWorks": [
-      { "title": "Optimiert für Mobilgeräte", "description": "Jede Seite und jedes Tool ist zuerst für Smartphone-Nutzer konzipiert — denn dort sind Ihre Kunden." },
-      { "title": "WhatsApp bereit", "description": "Integriertes WhatsApp, damit Kunden Sie sofort erreichen können — so wie Menschen heute kommunizieren." },
-      { "title": "Einfach zu verwalten", "description": "Sie erhalten ein benutzerfreundliches Dashboard zur Aktualisierung von Inhalten, Bestellungen und Buchungen — ohne technische Kenntnisse." },
-      { "title": "Lokal & mehrsprachig", "description": "Mit Sitz in Bozen, in Deutsch, Italienisch und Englisch. Ich kenne den lokalen Markt und Ihre Kunden." }
+      { "title": "Für Mobilgeräte optimiert", "description": "Die meisten Kunden suchen, stöbern und kontaktieren Unternehmen über ihr Handy. Jede Website und jedes Tool ist mobil zuerst konzipiert, damit Kunden schnell handeln können." },
+      { "title": "Einfach für Kunden", "description": "Klare Navigation, einfache Produkt- oder Dienstleistungsseiten, sichtbare Kontaktbuttons und direkte WhatsApp-Abläufe erleichtern es Besuchern, zu Kunden zu werden." },
+      { "title": "Einfach für Geschäftsinhaber", "description": "Das Ziel ist nicht, komplizierte Software zu entwickeln. Das Ziel ist, Ihnen Werkzeuge zu geben, die Sie in Ihrem täglichen Geschäft einfach aktualisieren, verwalten und nutzen können." },
+      { "title": "Lokaler Fokus", "description": "Entwickelt für die Bedürfnisse kleiner Unternehmen in Bozen und Umgebung – Cafés, Restaurants, Bäckereien, Salons, Heimbetriebe und lokale Dienstleistungen." },
+      { "title": "Mehrsprachig vorbereitet", "description": "Websites können für englische, italienische und deutsche Inhalte strukturiert werden, was lokalen und touristischen Kunden hilft, Ihre Angebote leichter zu verstehen." }
     ]
   },
   "portfolio": {
     "title": "Portfolio",
-    "description": "Projekte, die ich umgesetzt habe. Jedes löst ein echtes Problem für ein lokales Unternehmen.",
-    "screenshot": "Bildschirmfoto",
+    "description": "Eine Auswahl von digitalen Lösungsprojekten, die ich für kleine Unternehmen entwickelt habe, darunter Bäckerei-Bestellsysteme, Restaurant-Reservierungen, Salonbuchungen, Admin-Dashboards und Kundenanfrage-Abläufe.",
+    "screenshot": "Bildschirmfotos",
     "viewDemo": "Demo ansehen",
+    "viewConcept": "Konzept ansehen",
     "viewCaseStudy": "Fallstudie ansehen",
     "projects": [
       {
-        "title": "Bäckerei-Bestellseite",
-        "description": "Entworfen und entwickelt eine Premium-Bäckerei-Website mit produktorientiertem Menübereich, individuellem Kuchen-Bestellablauf, responsivem Layout und poliertem Branding für ein Hausbäckerei-Konzept.",
-        "tags": ["Webseite", "Bestellsystem"],
-        "features": ["Handy-optimierte Bäckerei-Webseite", "Digitale Speisekarte mit Kategorien", "Vorbestellsystem", "WhatsApp-Benachrichtigungen"],
+        "title": "The Little Patisserie — Artisan Bäckerei E-Commerce",
+        "status": "In aktiver Entwicklung",
+        "tags": ["Bäckerei E-Commerce", "Individuelle Bestellungen", "Admin-Dashboard", "Zahlungsabwicklung"],
+        "description": "Eine Full-Stack-Bäckerei-E-Commerce-Plattform für eine Boutique-Hausbäckerei mit dynamischem Menü, Warenkorb, individuellen Kuchenbestellungen, Razorpay-Zahlungsintegration, Lieferoptionen, WhatsApp-Benachrichtigungen und einem Admin-Dashboard für Bestell- und Menüverwaltung.",
+        "features": [
+          "Dynamisches Bäckerei-Menü mit Kategorien, Bestsellern, Neuheiten und Produkt-Badges",
+          "Warenkorb mit Mengenangabe, Preisgestaltung und Optionen ohne Ei/mit Ei",
+          "Abholung, lokale Lieferung und Kurierlieferung",
+          "Individuelles Kuchen-Anfrageformular mit Geschmack, Größe, Anlass, Nachricht und Designoptionen",
+          "Razorpay-Zahlungsintegration",
+          "Bestellstatus-Tracking mit WhatsApp-Benachrichtigungsworkflow",
+          "Passwortgeschütztes Admin-Panel für Bestellungen, Menüpunkte, Galerie und Ladenstatus",
+          "Responsives Bäckerei-Design mit sanften UI-Animationen"
+        ],
+        "techStack": "Next.js 16, React 19, TypeScript, Tailwind CSS v4, Supabase, PostgreSQL, Razorpay, Framer Motion, Lucide React, Sentry, Render",
+        "role": "Alleiniger Full-Stack-Entwickler",
         "images": ["/images/bakery-screenshot.png", "/images/bakery-screenshot-01.png", "/images/bakery-screenshot-02.png", "/images/bakery-screenshot-03.png"],
         "demoUrl": "https://the-little-patisserei.onrender.com/",
         "caseStudyUrl": ""
       },
       {
-        "title": "Restaurant / Café Bestelldemo",
-        "description": "Ein QR-Code-basiertes Bestellsystem für Restaurants und Cafés. Kunden scannen, stöbern und bestellen vom Tisch aus.",
-        "tags": ["Bestellsystem", "QR-Speisekarte"],
-        "features": ["QR-Code an jedem Tisch", "Kontaktloser Bestellablauf", "Bestellverwaltungs-Dashboard", "Echtzeit-Bestellstatus"],
-        "images": [],
-        "demoUrl": "",
-        "caseStudyUrl": ""
+        "title": "Ristorante Bella Vita — Restaurant-Website & Reservierungssystem",
+        "status": "Abgeschlossenes Portfolio-Projekt",
+        "tags": ["Restaurant-Website", "Reservierungen", "Admin-Panel", "Zweisprachig"],
+        "description": "Eine vollständige Restaurant-Website mit Online-Reservierungen, Live-Verfügbarkeitsprüfung, E-Mail-Bestätigungen, zweisprachiger Unterstützung (Englisch/Deutsch) und einem sicheren Admin-Panel zur Verwaltung von Reservierungen, Menüpunkten und Kundenanfragen.",
+        "features": [
+          "Öffentliche Website mit Startseite, Über uns, Menü, Reservierungen, Galerie und Kontaktseiten",
+          "Online-Reservierungsablauf mit Live-Zeitfenster-Verfügbarkeit",
+          "E-Mail-Bestätigungsworkflow",
+          "Sicheres Admin-Panel mit JWT-Authentifizierung",
+          "Verwaltung von Reservierungen, Menü und Nachrichten",
+          "Zweisprachige Unterstützung Englisch/Deutsch",
+          "Responsives Design mit Framer Motion-Animationen",
+          "Ratenbegrenzte APIs, Eingabebereinigung und Sicherheits-Header"
+        ],
+        "techStack": "Next.js 14, TypeScript, Tailwind CSS, PostgreSQL, Prisma ORM, JWT, bcryptjs, Nodemailer, Framer Motion",
+        "role": "Alleiniger Full-Stack-Entwickler",
+        "images": ["/images/restaurant-screenshot.png", "/images/restaurant-screenshot-01.png", "/images/restaurant-screenshot-02.png", "/images/restaurant-screenshot-03.png", "/images/restaurant-screenshot-04.png", "/images/restaurant-screenshot-05.png"],
+        "demoUrl": "https://restaurant-website-exp.vercel.app/",
+        "caseStudyUrl": "https://restaurant-website-exp.vercel.app/"
       },
       {
-        "title": "Salon-Buchungsdemo",
-        "description": "Ein Online-Buchungssystem für Salons und Beauty-Studios. Kunden buchen Termine, wählen Leistungen und erhalten Erinnerungen.",
-        "tags": ["Buchungssystem", "Dashboard"],
-        "features": ["Leistungskatalog mit Preisen", "Online-Terminbuchung", "Mitarbeiter-Verfügbarkeitskalender", "Automatische Erinnerungen"],
-        "images": [],
-        "demoUrl": "",
-        "caseStudyUrl": ""
+        "title": "Bellezza Salon — Buchungs-Website & Admin-Plattform",
+        "status": "Fast abgeschlossener Prototyp",
+        "tags": ["Salon-Website", "Online-Buchung", "Dreisprachig", "Admin-Dashboard"],
+        "description": "Eine Full-Stack-Salon-Website und Buchungsplattform mit dreisprachigen Inhalten, Online-Terminbuchung, Dienstleistungskatalog, Mitarbeiterzuweisung und einem Admin-Dashboard zur Verwaltung von Buchungen, Dienstleistungen, Bewertungen, FAQs und Mitarbeitern.",
+        "features": [
+          "Öffentliche Marketing-Website mit Hero, Dienstleistungen, Team, Bewertungen, FAQ und Kontaktbereichen",
+          "Online-Buchungsablauf mit Mehrfachauswahl, Datums-/Zeitauswahl und Mitarbeiterzuweisung",
+          "Admin-Dashboard für Dienstleistungen, Buchungen, Kalender, Mitarbeiter, Bewertungen und FAQs",
+          "Dreisprachige Unterstützung für Italienisch, Englisch und Deutsch",
+          "SEO-fertiges Setup mit Schema.org JSON-LD, Open Graph, Sitemap, robots.txt und PWA-Manifest",
+          "Responsives Design mit Tailwind CSS v4",
+          "PostgreSQL-gestütztes Datenmodell mit Prisma ORM"
+        ],
+        "techStack": "Next.js 16, React 19, TypeScript, Tailwind CSS v4, Prisma 7, Neon PostgreSQL, Vercel",
+        "role": "Alleiniger Full-Stack-Entwickler",
+        "images": ["/images/salon-screenshot.png", "/images/salon-screenshot-01.png", "/images/salon-screenshot-02.png"],
+        "demoUrl": "https://salon-website-exp.vercel.app/",
+        "caseStudyUrl": "https://salon-website-exp.vercel.app/"
       }
     ]
   },
   "services": {
     "title": "Leistungen",
-    "description": "Alles, was ein lokales Unternehmen für den Online-Erfolg braucht – von einer einfachen Webseite bis zum kompletten Bestell- und Buchungssystem.",
+    "description": "Alles, was ein lokales Unternehmen braucht, um eine stärkere Online-Präsenz aufzubauen, Kundenanfragen zu verbessern und einfache digitale Arbeitsabläufe zu verwalten.",
     "items": [
-      { "title": "Business-Webseiten", "description": "Handy-optimierte, schnelle Webseiten, die auf Ihr Unternehmen zugeschnitten sind. Ein sauberer Online-Auftritt, der Kunden hilft, Sie zu finden." },
-      { "title": "Online-Bestellsysteme", "description": "Ermöglichen Sie Kunden, direkt vom Handy aus zu bestellen. Einfach zu verwalten, bequem für Ihre Kunden." },
-      { "title": "Buchungs- & Reservierungssysteme", "description": "Nehmen Sie Reservierungen und Terminbuchungen online entgegen. Kunden wählen eine Zeit, Sie werden benachrichtigt." },
-      { "title": "QR-Speisekarten", "description": "Ersetzen Sie Papierspeisekarten durch scannbare QR-Codes. Kunden öffnen die Karte direkt auf dem Smartphone – ohne App." },
-      { "title": "Admin-Dashboards", "description": "Ein privates Panel zur Verwaltung von Bestellungen, Speisekarten, Buchungen und Kundenaktivitäten. Keine technischen Kenntnisse nötig." },
-      { "title": "Monatliche Wartung", "description": "Laufende Unterstützung für Updates, Sicherheit und reibungslosen Betrieb. Inhaltsaktualisierungen und regelmäßige Checks." }
+      { "title": "Unternehmenswebsite", "description": "Eine saubere, mobilfreundliche Website, die auf Ihr Unternehmen zugeschnitten ist. Enthält wichtige Bereiche wie Startseite, Über uns, Dienstleistungen oder Produkte, Galerie, Kontakt, Standort und Anfrage-Buttons." },
+      { "title": "Digitale Speisekarte / Produktkatalog", "description": "Eine strukturierte Online-Speisekarte oder ein Produktkatalog, in dem Kunden Artikel, Kategorien, Preise, Beschreibungen und Fotos vom Handy aus durchstöbern können." },
+      { "title": "WhatsApp-Bestellablauf", "description": "Ein einfacher Bestell- oder Anfrageablauf, der mit WhatsApp verbunden ist und es Kunden ermöglicht, Sie direkt nach dem Ansehen Ihrer Produkte oder Dienstleistungen zu kontaktieren." },
+      { "title": "Buchungs- / Reservierungsablauf", "description": "Ein Buchungs- oder Reservierungsformular für terminbasierte Unternehmen wie Salons, Studios, Restaurants und lokale Dienstleistungen." },
+      { "title": "Admin-Dashboard", "description": "Ein privates Dashboard, in dem Sie Menüpunkte, Produkte, Anfragen, Buchungen oder grundlegende Inhaltsaktualisierungen verwalten können." },
+      { "title": "QR-Speisekarte", "description": "Ein scannbarer QR-Code, der mit Ihrer digitalen Speisekarte oder Ihrem Produktkatalog verknüpft ist. Nützlich für Restaurants, Cafés, Bäckereien und Salons." },
+      { "title": "Monatliche Wartung", "description": "Laufende Unterstützung für kleine Updates, Inhaltsänderungen, Leistungsprüfungen, kleine Fehlerbehebungen und allgemeine Website-Wartung." }
     ]
   },
   "contact": {
@@ -95,6 +135,6 @@
     "send": "Nachricht senden"
   },
   "footer": {
-    "copyright": "Alle Rechte vorbehalten."
+    "copyright": "Freelance-Web-, Automatisierungs- und Digitallösungen für lokale Unternehmen in Bozen."
   }
 }

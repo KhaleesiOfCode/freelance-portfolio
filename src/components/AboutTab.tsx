@@ -21,7 +21,7 @@ export default function AboutTab() {
         <h2 className="text-3xl font-bold text-cream mb-4">
           {t("about.title")}
         </h2>
-        <p className="text-cream/70 leading-relaxed mb-8 max-w-3xl">
+        <p className="text-cream/70 leading-relaxed mb-8 max-w-3xl whitespace-pre-line">
           {t("about.description")}
         </p>
       </Reveal>
@@ -31,11 +31,11 @@ export default function AboutTab() {
           {t("about.whatIBuildTitle")}
         </h3>
 
-        <div className="grid md:grid-cols-2 gap-4 mb-12">
+        <div className="flex flex-wrap justify-center gap-4 mb-12">
           {whatIBuild.map((item) => (
             <div
               key={item.title}
-              className="bg-white/5 backdrop-blur-xl rounded-2xl p-5 border border-white/10 hover:bg-white/[0.08] transition-colors"
+              className="bg-white/5 backdrop-blur-xl rounded-2xl p-5 border border-white/10 hover:-translate-y-1 hover:shadow-xl hover:shadow-gold/5 hover:border-gold/30 hover:bg-white/[0.08] transition-all duration-300 basis-72 flex-1 max-w-md"
             >
               <h4 className="text-gold font-semibold mb-1.5">{item.title}</h4>
               <p className="text-cream/60 text-sm leading-relaxed">
@@ -51,11 +51,11 @@ export default function AboutTab() {
           {t("about.whyItWorksTitle")}
         </h3>
 
-        <div className="grid md:grid-cols-2 gap-5">
+        <div className="flex flex-wrap justify-center gap-5">
           {whyItWorks.map((item) => (
             <div
               key={item.title}
-              className="bg-white/5 backdrop-blur-xl rounded-2xl p-5 border border-white/10 hover:bg-white/[0.08] transition-colors"
+              className="bg-white/5 backdrop-blur-xl rounded-2xl p-5 border border-white/10 hover:-translate-y-1 hover:shadow-xl hover:shadow-gold/5 hover:border-gold/30 hover:bg-white/[0.08] transition-all duration-300 basis-72 flex-1 max-w-md"
             >
               <h4 className="text-gold font-semibold mb-1.5">{item.title}</h4>
               <p className="text-cream/60 text-sm leading-relaxed">

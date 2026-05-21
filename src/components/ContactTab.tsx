@@ -57,7 +57,7 @@ export default function ContactTab() {
       </Reveal>
 
       <Reveal delay={200}>
-        <div className="bg-white/5 backdrop-blur-xl rounded-2xl p-6 md:p-8 border border-white/10">
+        <div className="bg-white/5 backdrop-blur-xl rounded-2xl p-6 md:p-8 border border-white/10 hover:-translate-y-1 hover:shadow-xl hover:shadow-gold/5 hover:border-gold/30 transition-all duration-300">
           <h3 className="text-lg font-semibold text-cream mb-6">
             {t("contact.formTitle")}
           </h3>

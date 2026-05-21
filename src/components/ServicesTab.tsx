@@ -24,10 +24,10 @@ export default function ServicesTab() {
         </p>
       </Reveal>
 
-      <div className="grid md:grid-cols-2 gap-5">
+      <div className="flex flex-wrap justify-center gap-5">
         {items.map((item, i) => (
-          <Reveal key={item.title} delay={i * 80}>
-            <div className="bg-white/5 backdrop-blur-xl rounded-2xl p-6 border border-white/10 hover:bg-white/[0.08] transition-colors">
+          <Reveal key={item.title} delay={i * 80} className="basis-72 flex-1 max-w-md">
+            <div className="bg-white/5 backdrop-blur-xl rounded-2xl p-6 border border-white/10 hover:-translate-y-1 hover:shadow-xl hover:shadow-gold/5 hover:border-gold/30 hover:bg-white/[0.08] transition-all duration-300">
               <h3 className="text-lg font-semibold text-cream mb-2">
                 {item.title}
               </h3>

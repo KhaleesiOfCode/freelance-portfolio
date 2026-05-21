@@ -9,13 +9,13 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Nivetha Sathiyapal | Websites & Tools for Local Businesses in Bolzano",
+  title: "Nivetha Sathiyapal | Websites & Digital Tools for Local Businesses in Bolzano",
   description:
-    "Modern websites, online ordering tools, and booking systems for cafes, restaurants, bakeries, salons, and small businesses in Bolzano, Italy.",
+    "Helping local businesses in Bolzano turn visitors into customers with clean websites, digital menus, WhatsApp ordering flows, and simple admin tools.",
   openGraph: {
-    title: "Nivetha Sathiyapal | Websites & Tools for Local Businesses in Bolzano",
+    title: "Nivetha Sathiyapal | Websites & Digital Tools for Local Businesses in Bolzano",
     description:
-      "Modern websites, online ordering tools, and booking systems for local businesses in Bolzano, Italy.",
+      "Helping local businesses in Bolzano turn visitors into customers with clean websites, digital menus, WhatsApp ordering flows, and simple admin tools.",
     url: "https://studionives.com",
     siteName: "Nivetha Sathiyapal",
     locale: "en_IT",
