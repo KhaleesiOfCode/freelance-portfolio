@@ -104,7 +104,8 @@
           "WhatsApp button",
           "Google Maps",
           "Basic SEO",
-          "Contact section"
+          "Contact section",
+          "Monthly maintenance: €49/mo"
         ],
         "note": "Best first offer",
         "cta": "Ask About Starter Website"
@@ -119,7 +120,8 @@
           "QR menu",
           "Menu categories",
           "Photos",
-          "WhatsApp enquiry"
+          "WhatsApp enquiry",
+          "Monthly maintenance: €79/mo"
         ],
         "note": "Good for food businesses",
         "cta": "Ask About QR Menu"
@@ -133,7 +135,8 @@
           "Cart / order flow",
           "Pickup or delivery option",
           "Time slot selection",
-          "WhatsApp / admin order flow"
+          "WhatsApp / admin order flow",
+          "Monthly maintenance: €99/mo"
         ],
         "note": "Higher-value offer",
         "cta": "Ask About Ordering Tool"
@@ -147,25 +150,13 @@
           "Date / time selection",
           "Booking form",
           "Confirmation flow",
-          "Admin view"
+          "Admin view",
+          "Monthly maintenance: €99/mo"
         ],
         "note": "Good for salons and service businesses",
         "cta": "Ask About Booking Tool"
       },
-      {
-        "name": "Monthly Maintenance",
-        "price": "€100/month",
-        "bestFor": "Existing clients who need regular updates and support.",
-        "includes": [
-          "Menu updates",
-          "Price changes",
-          "Image changes",
-          "Small fixes",
-          "Technical support"
-        ],
-        "note": "Recurring support",
-        "cta": "Ask About Maintenance"
-      }
+
     ]
   },
   "howItWorks": {

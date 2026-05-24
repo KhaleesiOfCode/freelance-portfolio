@@ -104,7 +104,8 @@
           "Pulsante WhatsApp",
           "Google Maps",
           "SEO di base",
-          "Sezione contatti"
+          "Sezione contatti",
+          "Manutenzione mensile: €49/mese"
         ],
         "note": "Miglior prima offerta",
         "cta": "Chiedi informazioni sul Starter"
@@ -119,7 +120,8 @@
           "Menu QR",
           "Categorie menu",
           "Foto",
-          "Richiesta WhatsApp"
+          "Richiesta WhatsApp",
+          "Manutenzione mensile: €79/mese"
         ],
         "note": "Adatto per attività alimentari",
         "cta": "Chiedi informazioni sul Menu QR"
@@ -133,7 +135,8 @@
           "Carrello / flusso ordini",
           "Opzione ritiro o consegna",
           "Seleziona fascia oraria",
-          "Flusso ordini WhatsApp / admin"
+          "Flusso ordini WhatsApp / admin",
+          "Manutenzione mensile: €99/mese"
         ],
         "note": "Offerta di valore superiore",
         "cta": "Chiedi informazioni sullo Strumento di Ordinazione"
@@ -147,25 +150,13 @@
           "Selezione data / ora",
           "Modulo di prenotazione",
           "Flusso di conferma",
-          "Vista admin"
+          "Vista admin",
+          "Manutenzione mensile: €99/mese"
         ],
         "note": "Adatto per saloni e attività di servizi",
         "cta": "Chiedi informazioni sullo Strumento di Prenotazione"
       },
-      {
-        "name": "Manutenzione Mensile",
-        "price": "€100/mese",
-        "bestFor": "Clienti esistenti che necessitano di aggiornamenti e supporto regolari.",
-        "includes": [
-          "Aggiornamenti menu",
-          "Modifiche prezzi",
-          "Modifiche immagini",
-          "Piccole correzioni",
-          "Supporto tecnico"
-        ],
-        "note": "Supporto ricorrente",
-        "cta": "Chiedi informazioni sulla Manutenzione"
-      }
+
     ]
   },
   "howItWorks": {

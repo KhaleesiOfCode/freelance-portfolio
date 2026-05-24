@@ -104,7 +104,8 @@
           "WhatsApp-Button",
           "Google Maps",
           "Basis-SEO",
-          "Kontaktbereich"
+          "Kontaktbereich",
+          "Monatliche Wartung: €49/Monat"
         ],
         "note": "Bestes Einstiegsangebot",
         "cta": "Nach Starter-Website fragen"
@@ -119,7 +120,8 @@
           "QR-Speisekarte",
           "Menükategorien",
           "Fotos",
-          "WhatsApp-Anfrage"
+          "WhatsApp-Anfrage",
+          "Monatliche Wartung: €79/Monat"
         ],
         "note": "Gut für Gastronomiebetriebe",
         "cta": "Nach QR-Speisekarte fragen"
@@ -133,7 +135,8 @@
           "Warenkorb / Bestellablauf",
           "Abhol- oder Lieferoption",
           "Zeitfensterauswahl",
-          "WhatsApp / Admin-Bestellablauf"
+          "WhatsApp / Admin-Bestellablauf",
+          "Monatliche Wartung: €99/Monat"
         ],
         "note": "Höherwertiges Angebot",
         "cta": "Nach Bestelltool fragen"
@@ -147,25 +150,13 @@
           "Datum-/Zeitauswahl",
           "Buchungsformular",
           "Bestätigungsablauf",
-          "Admin-Ansicht"
+          "Admin-Ansicht",
+          "Monatliche Wartung: €99/Monat"
         ],
         "note": "Gut für Salons und Dienstleistungsbetriebe",
         "cta": "Nach Buchungstool fragen"
       },
-      {
-        "name": "Monatliche Wartung",
-        "price": "€100/Monat",
-        "bestFor": "Bestehende Kunden, die regelmäßige Updates und Support benötigen.",
-        "includes": [
-          "Menü-Updates",
-          "Preisänderungen",
-          "Bildänderungen",
-          "Kleine Fehlerbehebungen",
-          "Technischer Support"
-        ],
-        "note": "Wiederkehrender Support",
-        "cta": "Nach Wartung fragen"
-      }
+
     ]
   },
   "howItWorks": {
